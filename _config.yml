@@ -3,7 +3,7 @@ title: CO-OP
 subtitle: TRAIL
 email: info@cooptrail.org
 description:
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/cooptrail" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
