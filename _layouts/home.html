@@ -16,10 +16,10 @@
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
-                <h1>{{ page.landing-title }}</h1>
+                <h2>{{ page.landing-title }}</h2>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <p style="text-transform: uppercase;">{{ page.description }}</p>
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul>
@@ -30,21 +30,24 @@
     <!-- Main -->
     <div id="main">
 
+
+        <section id="one" class="xtratile">
+          <article style="background-image: url(&quot;assets/images/bg_map.png&quot;);">
+            <span class="image" style="display: none;">
+              <img src="assets/images/bg_map.png" alt="">
+            </span>
+            <header class="major">
+              <h3><a href="/map.html" class="link">View the Interactive Map</a></h3>
+              <p>We are building a touring map of cooperatives across the United States, and visiting each place on a cross-country tour on our electric tandem bicycle. Check out the map to be inspired by amazing co-ops near and far.</p>
+            </header>
+          <a href="/map.html" class="link primary"></a></article>
+
+
+        </section>
+
+
         <!-- One -->
         {% include tiles.html %}
-
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>Massa libero</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
-            </div>
-        </section>
 
     </div>
 

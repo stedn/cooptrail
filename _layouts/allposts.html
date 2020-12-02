@@ -10,29 +10,41 @@
 
   <body>
 
-    {% include header.html %} 
-    
-    
-    <!-- Main -->
+    {% include header.html %}
+    {% assign mytiles = site.posts | where_exp: "item", "item.route != true" %}
+
+
     <div id="main" class="alt">
 
-      <!-- One -->
+    <!-- One -->
       <section id="one">
-	<div class="inner">
-          {% for post in site.posts %}
-	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1>{{ post.title }}</h1>
-	  </header>
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
-	  <p>{{ post.content }}</p>
-	  {% endif %}
-          {% endfor %}
-	</div>
+        <div class="inner">
+          <section id="two" class="spotlights">
+          <h1>All Stories</h1>
+            {% for tile in mytiles reversed %}
+              <section>
+                  <a href="{{ tile.url  | relative_url }}" class="image">
+                      <img src="{{ tile.image }}" alt="" data-position="center center" />
+                  </a>
+                  <div class="content">
+                      <div class="inner">
+                          <header class="major">
+                              <h3>{{ tile.title }}</h3>
+                          </header>
+                          <p>{{ tile.description }}</p>
+                          <ul class="actions">
+                              <li><a href="{{ tile.url  | relative_url }}" class="button">Learn more</a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </section>
+            {% endfor %}
+          </section>
+        </div>
       </section>
 
     </div>
+
 
     {% include footer.html %}
 
