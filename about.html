@@ -78,6 +78,21 @@
 		    
 		
 	</ul>
+		<div class="inner">
+			<ul class="icons">
+				
+				<li><a href="https://twitter.com/TheCoopTrail" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				
+				
+				<li><a href="https://www.instagram.com/coop_trail/" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				
+				
+				
+				
+			</ul>
+		</div>
+
+
 	<!-- <ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
 		<li><a href="#" class="button fit">Log In</a></li>
@@ -115,24 +130,28 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/info@cooptrail.org" method="POST">
+			<h2>Get in touch</h2>
+			<p>If you'd like your organization added to the trail or if you'd like to curate a portion of trail yourself, send us a message and we'll get in touch.</p>
+			<iframe name="hidden_iframe" id="hidden_iframe" style="display: none;" onload="if(submitted)  {document.forms['myForm'].style.display='none'; document.getElementById('myThanks').style.display='block'; }"></iframe>
+			<form id="myForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScR9nymDVWWK2Eza_kwH8jV54_elV8oNJhwjPR45GThJ80ebA/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
 				<div class="field half first">
 					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
+					<input type="text" name="entry.1334936582" id="name" />
 				</div>
 				<div class="field half">
 					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
+					<input type="email" name="entry.1352045854" id="email" />
 				</div>
 				<div class="field">
 					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<textarea name="entry.123592912" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="submit" value="Send Message" class="special" onclick=''/></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
+			<div class="box" id="myThanks" style="display:none;height:400px;"><p><i>Thanks for your message! We'll get back to you right away.</i></p></div>
 		</section>
 		<section class="split">
 			<section>
@@ -175,18 +194,13 @@
 				
 				
 				
-				
 				<li><a href="https://www.instagram.com/coop_trail/" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				
-				
-				
-				
 				
 				
 				
 			</ul>
 			<ul class="copyright">
-				<li>&copy; The Co-Op Trail</li>
+				<li>All Content Freely Usable under CC-BY-SA</li>
 				<li>Site Template: <a href="https://html5up.net" target="_blank">HTML5 UP</a> + <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
 			</ul>
