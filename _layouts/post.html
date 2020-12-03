@@ -19,15 +19,38 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<!-- <header class="major">
+		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %} -->
+		{% if page.image %}<span class="image left"><img src="{{ page.image | relative_url}}" alt="" /></span>{% endif %}
 		{{ content }}
 	</div>
 </section>
 
 </div>
+
+	{% assign rtiles = site.posts | where_exp: "item", "item.parent == page.title" %}
+
+	<section id="two" class="spotlights">
+	    {% for tile in rtiles reversed %}
+	    <section>
+	        <a href="{{ tile.url  | relative_url }}" class="image">
+	            <img src="{{ tile.image | relative_url }}" alt="" />
+	        </a>
+	        <div class="content">
+	            <div class="inner">
+	                <header class="major">
+	                    <h3>{{ tile.title }}</h3>
+	                </header>
+	                <p>{{ tile.description }}</p>
+	                <ul class="actions">
+	                    <li><a href="{{ tile.url  | relative_url }}" class="button">Learn more</a></li>
+	                </ul>
+	            </div>
+	        </div>
+	    </section>
+	    {% endfor %}
+	</section>
 
     {% include footer.html %}
 

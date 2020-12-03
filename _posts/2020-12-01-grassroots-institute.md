@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Northern California to Portland
-description: The journey begins
-image: assets/images/northern-california-to-portland.png
-route: true
+title: Grassroots Institute
+description: Caspar, CA
+image: assets/images/grassroots-institute.png
+highlight: true
+parent: Northern California to Portland
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
@@ -21,5 +22,3 @@ Pellentesque aliquam maximus risus, vel sed vehicula.
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
 Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
 Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
-
-<iframe style='border:none' width='100%' height='500px'  src="https://openrouteservice.org/map/#/directions/Caspar,CA,USA/Shelter%20Cove,CA,USA/Eureka,CA,USA/Florence,OR,USA/Eugene,OR,USA/Portland,OR,USA/data/55,130,32,198,15,97,4,224,38,9,96,59,2,24,5,192,166,6,113,0,184,64,90,1,24,2,96,25,128,58,0,56,0,102,180,211,8,6,148,129,57,205,32,54,82,5,96,29,152,128,220,69,136,1,103,45,91,183,74,197,42,49,29,92,124,238,196,89,9,38,48,135,98,29,120,115,144,183,139,110,91,9,173,30,80,181,14,124,228,81,105,87,169,94,167,132,86,169,82,189,217,34,199,81,17,203,144,88,88,156,154,214,136,206,91,156,155,158,159,215,132,17,132,2,0,1,213,30,2,17,27,7,20,25,58,2,0,12,222,0,6,221,23,28,0,19,204,8,169,0,28,223,26,29,6,160,21,200,185,26,1,36,23,61,31,61,1,177,12,20,175,31,57,19,3,20,99,160,11,202,0,22,215,16,146,128,23,193,104,0/embed/en-us"></iframe>
