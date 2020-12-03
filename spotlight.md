@@ -1,6 +1,6 @@
 ---
 title: Co-Op Spotlights
-layout: post
+layout: page
 description: 'Check out our documentary series about the co-ops along the trail.'
 image: assets/images/worcstandin.jpg
 
