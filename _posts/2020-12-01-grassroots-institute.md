@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Grassroots Institute
-description: Caspar, CA
+title: Under Construction
+description: Coming Soon
 image: assets/images/grassroots-institute.png
 highlight: true
 parent: Northern California to Portland

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Story
+title: 'Why a Co-op Trail?'
 description: 'The motivation behind the co-op trail.'
 image: assets/images/us.jpg
 hide_image: true
