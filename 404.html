@@ -14,24 +14,6 @@
 	<link rel="stylesheet" href="/assets/css/main.css" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
-    <meta itemprop="name" content="">
-    <meta itemprop="description" content="Sustainable travels through the co-op economy">
-    <meta itemprop="image" content="https://cooptrail.org/assets/images/bg_map.png">
-
-    <meta property="og:url" content="/404.html">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="404 | CO-OP TRAIL">
-    <meta property="og:site_name" content="CO-OP TRAIL">
-    <meta property="og:description" content="Sustainable travels through the co-op economy">
-    <meta property="og:image" content="https://cooptrail.org/assets/images/bg_map.png">
-
-    <meta property="twitter:url" content="/404.html">
-    <meta property="twitter:card" content="summary_large_image"/>
-    <meta property="twitter:title" content="404 | CO-OP TRAIL">
-    <meta property="twitter:site" content="CO-OP TRAIL">
-    <meta property="twitter:description" content="Sustainable travels through the co-op economy">
-    
-    <meta property="twitter:image" content="https://cooptrail.org/assets/images/bg_map.png">
 </head>
 
 
@@ -42,7 +24,7 @@
 
 <!-- Header -->
 <header id="header">
-	<a href="/" class="logo"><span>The</span> <strong>Co-Op</strong> <span>Trail</span></a>
+	<a href="http://localhost:4000//" class="logo"><span>The</span> <strong>Co-Op</strong> <span>Trail</span></a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -57,7 +39,7 @@
 		    
 		
 		    
-		        <li><a href="/">Home</a></li>
+		        <li><a href="http://localhost:4000//">Home</a></li>
 	    	
 		
 		    
@@ -74,43 +56,28 @@
 		    
 		
 		    
-		        <li><a href="/about.html">Our Story</a></li>
+		        <li><a href="http://localhost:4000/about.html">Our Story</a></li>
 		    
 		
 		    
 		
 		    
-		        <li><a href="/join.html">Join the Co-Op Trail</a></li>
+		        <li><a href="http://localhost:4000/join.html">Join the Co-Op Trail</a></li>
 		    
 		
 		    
-		        <li><a href="/map.html">Co-Op Trail Map</a></li>
+		        <li><a href="http://localhost:4000/map.html">Co-Op Trail Map</a></li>
 		    
 		
 		    
-		        <li><a href="/spotlight.html">Co-Op Spotlights</a></li>
+		        <li><a href="http://localhost:4000/spotlight.html">Co-Op Spotlights</a></li>
 		    
 		
 		    
-		        <li><a href="/stories.html">All Stories</a></li>
+		        <li><a href="http://localhost:4000/stories.html">All Stories</a></li>
 		    
 		
 	</ul>
-		<div class="inner">
-			<ul class="icons">
-				
-				<li><a href="https://twitter.com/TheCoopTrail" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				
-				
-				<li><a href="https://www.instagram.com/coop_trail/" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				
-				
-				
-				
-			</ul>
-		</div>
-
-
 	<!-- <ul class="actions vertical">
 		<li><a href="#" class="button special fit">Get Started</a></li>
 		<li><a href="#" class="button fit">Log In</a></li>
@@ -125,10 +92,10 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!-- <header class="major">
 			<h1>404</h1>
 		</header>
-		
+		 -->
 		<p>Page not found! :(</p>
 
 	</div>
@@ -136,38 +103,28 @@
 
 </div>
 
-	
-
-	<section id="two" class="spotlights">
-	    
-	</section>
-
     <!-- Contact -->
 <section id="contact">
 	<div class="inner">
 		<section>
-			<h2>Get in touch</h2>
-			<p>If you'd like your organization added to the trail or if you'd like to curate a portion of trail yourself, send us a message and we'll get in touch.</p>
-			<iframe name="hidden_iframe" id="hidden_iframe" style="display: none;" onload="if(submitted)  {document.forms['myForm'].style.display='none'; document.getElementById('myThanks').style.display='block'; }"></iframe>
-			<form id="myForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScR9nymDVWWK2Eza_kwH8jV54_elV8oNJhwjPR45GThJ80ebA/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
+			<form action="https://formspree.io/thecooptrail@gmail.com" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
-					<input type="text" name="entry.1334936582" id="name" />
+					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
 					<label for="email">Email</label>
-					<input type="email" name="entry.1352045854" id="email" />
+					<input type="text" name="_replyto" id="email" />
 				</div>
 				<div class="field">
 					<label for="message">Message</label>
-					<textarea name="entry.123592912" id="message" rows="6"></textarea>
+					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" onclick=''/></li>
+					<li><input type="submit" value="Send Message" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
-			<div class="box" id="myThanks" style="display:none;height:400px;"><p><i>Thanks for your message! We'll get back to you right away.</i></p></div>
 		</section>
 		<section class="split">
 			<section>
@@ -210,13 +167,18 @@
 				
 				
 				
+				
 				<li><a href="https://www.instagram.com/coop_trail/" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				
+				
+				
+				
 				
 				
 				
 			</ul>
 			<ul class="copyright">
-				<li>All Content Freely Usable under CC-BY-SA</li>
+				<li>&copy; The Co-Op Trail</li>
 				<li>Site Template: <a href="https://html5up.net" target="_blank">HTML5 UP</a> + <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
 			</ul>
@@ -226,13 +188,13 @@
 </div>
 
 <!-- Scripts -->
-	<script src="/assets/js/jquery.min.js"></script>
-	<script src="/assets/js/jquery.scrolly.min.js"></script>
-	<script src="/assets/js/jquery.scrollex.min.js"></script>
-	<script src="/assets/js/skel.min.js"></script>
-	<script src="/assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="/assets/js/main.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrolly.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrollex.min.js"></script>
+	<script src="http://localhost:4000/assets/js/skel.min.js"></script>
+	<script src="http://localhost:4000/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="http://localhost:4000/assets/js/main.js"></script>
 
 
 </body>
