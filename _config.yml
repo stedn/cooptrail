@@ -11,7 +11,7 @@ city:
 state:
 zip_code:
 country:
-phone: (773) 263-0181
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
