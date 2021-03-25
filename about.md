@@ -2,7 +2,7 @@
 layout: post
 title: 'Why a Co-op Trail?'
 description: 'The motivation behind the co-op trail.'
-image: assets/images/us.jpg
+image: assets/images/cooptraillogo.png
 hide_image: true
 nav-menu: true
 ---
