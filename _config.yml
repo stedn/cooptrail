@@ -12,6 +12,7 @@ state:
 zip_code:
 country:
 phone:
+hylo: https://www.hylo.com/groups/coop-trail
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,9 +21,11 @@ tiles-count: 6
 # social settings
 facebook_url:
 instagram_url: https://www.instagram.com/coop_trail/
-linkedin_url:
+linkedin_url: https://www.linkedin.com/company/coop-trail/
 slack_url:
 twitter_url: https://twitter.com/TheCoopTrail
+youtube_url: https://www.youtube.com/channel/UCjcZqjYIyFCo9SC0YaBy6Mg
+tiktok_url: https://www.tiktok.com/@coop_trail
 
 # build settings
 markdown: kramdown

@@ -28,16 +28,20 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<a href="mailto:{{ site.hylo }}" style="text-decoration:underline;">
+						<span class="icon alt fa-envelope"></span>
+
+						<h4>{{ site.email }}</h4>
+					</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
+					<a href="{{ site.hylo }}" style="text-decoration:underline;">
+						<span class="icon alt fa-group"></span>
+						<h4>Join our <em>Hylo</em> group</h4>
+					</a>
+
 				</div>
 			</section>
 			<!-- <section>
@@ -73,6 +77,12 @@
 			<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.twitter_url %}
+				<li><a href="{{ site.twitter_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.tiktok_url %}
+				<li><a href="{{ site.tiktok_url }}" class="icon alt " target="_blank"><img style="background-color:#fff;border-radius:100%;padding:8px;transform: translate(0px, 11px); " height="38px" src="/assets/css/tiktok.png" /></a></li>
 				{% endif %}
 				{% if site.facebook_url %}
 				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
