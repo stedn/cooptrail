@@ -26,4 +26,13 @@
       <meta property="twitter:creator" content="@TheCoopTrail">
     {% endif %}
     <meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://cooptrail.org/assets/images/bg_map.png{% endif %}">
+    <style>
+        .myicon {
+            background-color: #fff;
+            transition: background-color .2s ease-in-out;
+        }
+        .myicon:hover {
+            background-color: #6fc3df;
+        }
+    </style>
 </head>
