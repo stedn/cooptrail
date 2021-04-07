@@ -22,7 +22,7 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-    {% for tile in mytiles reversed %}
+    {% for tile in mytiles %}
     <section>
         <a href="{{ tile.url  | relative_url }}" class="image">
             <img src="{{ tile.image }}" alt="" data-position="center center" />
