@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corners of the Mouth
+title: Corners of the Mouth, Natural Food Store
 description: Mendocino, CA
 parent: Mendocino to Arcata
 parent_url: /2020/11/01/mendocino-arcata.html

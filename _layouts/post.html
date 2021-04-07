@@ -71,8 +71,8 @@
 
 		    {% for tile in rtiles reversed %}
 		    <section>
-		        <a href="{{ tile.url  | relative_url }}" class="image">
-		            <img src="{{ tile.image | relative_url }}" alt="" />
+		        <a href="{{ tile.url  | relative_url }}" class="image" style="max-height:300px;overflow:hidden;">
+		            <img src="{{ tile.image | relative_url }}" alt="{{ tile.title }}" />
 		        </a>
 		        <div class="content">
 		            <div class="inner">

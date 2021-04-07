@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
     {% for tile in mytiles %}
     <section>
-        <a href="{{ tile.url  | relative_url }}" class="image">
+        <a href="{{ tile.url  | relative_url }}" class="image" style="max-height:300px;overflow:hidden;">
             <img src="{{ tile.image }}" alt="" data-position="center center" />
         </a>
         <div class="content">
