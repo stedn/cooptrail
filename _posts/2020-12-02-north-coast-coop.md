@@ -2,7 +2,7 @@
 layout: post
 title: North Coast Co-Op
 description: Eureka and Arcata, CA
-parent: Mendocino, CA to Arcata, CA
+parent: Mendocino to Arcata
 parent_url: /2020/11/01/mendocino-arcata.html
 image: assets/images/north-coast-coop.jpg
 coop_url: www.northcoast.coop/

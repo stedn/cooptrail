@@ -29,6 +29,9 @@
 				{% if page.parent %}
 					<a href="{{ page.parent_url | relative_url }}"><strong style="display:flex;justify-content: flex-end;text-decoration:underline;">{{ page.parent }} Trail</strong></a>
 				{% endif %}
+				{% if page.route %}
+					<a href="/map.html"><strong style="display:flex;justify-content: flex-end;text-decoration:underline;">Back to Main Map</strong></a>
+				{% endif %}
 				{% if page.coop_url %}
 					<a href="http://{{ page.coop_url }}" target="_blank">
 						<span style="display:flex;justify-content: flex-end;text-decoration:underline;">{{ page.coop_url }}</span>
@@ -38,39 +41,61 @@
 
 			</div>
 		</header>
-		{% if page.coop_url %}<a href="{{ page.coop_url }}">{% endif %}
-		{% if page.image %} {% unless page.hide_image %}<span class="image left"><img src="{{ page.image | relative_url}}" alt="" /></span>{% endunless %}{% endif %}
-		{% if page.coop_url %}</a>{% endif %}
+		{% if page.image %}
+			{% unless page.hide_image %}
+				{% unless page.map %}
+					{% if page.coop_url %}<a href="{{ page.coop_url }}">{% endif %}
+						<span class="image left"><img src="{{ page.image | relative_url}}" alt="" /></span>
+					{% if page.coop_url %}</a>{% endif %}
+				{% endunless %}
+			{% endunless %}
+		{% endif %}
+
+		{% if page.map %}
+
+			<div class="iframeholder image left"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/{{ page.map }}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+				<p><a href="//umap.openstreetmap.fr/en/map/{{ page.map }}">Full Screen</a>
+				{% if page.directions %}<a href="{{ page.directions }}">Directions</a>
+				{% endif %}
+			</p>
+			</div>
+		{% endif %}
+
+
 		{{ content }}
+
+		{% assign rtiles = site.posts | where_exp: "item", "item.parent == page.title" %}
+
+		<section id="two" class="spotlights">
+			{% if page.route == true %}<h2 style="margin-top:5%;text-align:center;">{{ page.title }} Co-op Spotlights</h2> {% endif %}
+
+		    {% for tile in rtiles reversed %}
+		    <section>
+		        <a href="{{ tile.url  | relative_url }}" class="image">
+		            <img src="{{ tile.image | relative_url }}" alt="" />
+		        </a>
+		        <div class="content">
+		            <div class="inner">
+		                <header class="major">
+		                    <h3><a href="{{ tile.url  | relative_url }}">{{ tile.title }}</a></h3>
+		                </header>
+		                <p>{{ tile.description }}</p>
+		                <ul class="actions">
+		                    <li><a href="{{ tile.url  | relative_url }}" class="button">Learn more</a></li>
+		                </ul>
+		            </div>
+		        </div>
+		    </section>
+		    {% endfor %}
+		</section>
 	</div>
 </section>
 
+
+
 </div>
 
-	{% assign rtiles = site.posts | where_exp: "item", "item.parent == page.title" %}
 
-	<section id="two" class="spotlights">
-		{% if page.route == true %}<h2 style="margin-top:10%;text-align:center;">Co-op Spotlights</h2> {% endif %}
-
-	    {% for tile in rtiles reversed %}
-	    <section>
-	        <a href="{{ tile.url  | relative_url }}" class="image">
-	            <img src="{{ tile.image | relative_url }}" alt="" />
-	        </a>
-	        <div class="content">
-	            <div class="inner">
-	                <header class="major">
-	                    <h3><a href="{{ tile.url  | relative_url }}">{{ tile.title }}</a></h3>
-	                </header>
-	                <p>{{ tile.description }}</p>
-	                <ul class="actions">
-	                    <li><a href="{{ tile.url  | relative_url }}" class="button">Learn more</a></li>
-	                </ul>
-	            </div>
-	        </div>
-	    </section>
-	    {% endfor %}
-	</section>
 
     {% include footer.html %}
 

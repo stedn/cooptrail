@@ -2,7 +2,7 @@
 layout: post
 title: Corners of the Mouth
 description: Mendocino, CA
-parent: Mendocino, CA to Arcata, CA
+parent: Mendocino to Arcata
 parent_url: /2020/11/01/mendocino-arcata.html
 highlight: true
 image: assets/images/corners-of-the-mouth.png
