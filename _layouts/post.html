@@ -19,10 +19,28 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
+		<header class="major" style="width:100%">
+			<div>
+				<h1 style="display:flex;">{{ page.title }}</h1>
+				<div>
+				{% if page.description %}
+					<strong style="display:flex;justify-content: flex-end;">{{ page.description }}</strong>
+				{% endif %}
+				{% if page.parent %}
+					<a href="{{ page.parent_url | relative_url }}"><strong style="display:flex;justify-content: flex-end;text-decoration:underline;">{{ page.parent }} Trail</strong></a>
+				{% endif %}
+				{% if page.coop_url %}
+					<a href="http://{{ page.coop_url }}" target="_blank">
+						<span style="display:flex;justify-content: flex-end;text-decoration:underline;">{{ page.coop_url }}</span>
+					</a>
+				{% endif %}
+				</div>
+
+			</div>
 		</header>
+		{% if page.coop_url %}<a href="{{ page.coop_url }}">{% endif %}
 		{% if page.image %} {% unless page.hide_image %}<span class="image left"><img src="{{ page.image | relative_url}}" alt="" /></span>{% endunless %}{% endif %}
+		{% if page.coop_url %}</a>{% endif %}
 		{{ content }}
 	</div>
 </section>
@@ -32,6 +50,8 @@
 	{% assign rtiles = site.posts | where_exp: "item", "item.parent == page.title" %}
 
 	<section id="two" class="spotlights">
+		{% if page.route == true %}<h2 style="margin-top:10%;text-align:center;">Co-op Spotlights</h2> {% endif %}
+
 	    {% for tile in rtiles reversed %}
 	    <section>
 	        <a href="{{ tile.url  | relative_url }}" class="image">
@@ -40,7 +60,7 @@
 	        <div class="content">
 	            <div class="inner">
 	                <header class="major">
-	                    <h3>{{ tile.title }}</h3>
+	                    <h3><a href="{{ tile.url  | relative_url }}">{{ tile.title }}</a></h3>
 	                </header>
 	                <p>{{ tile.description }}</p>
 	                <ul class="actions">
