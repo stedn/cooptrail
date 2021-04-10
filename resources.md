@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co-Op Trail Resources
+title: Resources
 description: 'More Information about the trail and becoming a member'
 nav-menu: true
 ---
