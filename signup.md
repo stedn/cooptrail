@@ -3,6 +3,7 @@ layout: post
 title: Join the community mailing list
 description:
 nav-menu: false
+show_tile: false
 ---
 
 <div style="max-width:800px;margin:auto;text-align:center;">

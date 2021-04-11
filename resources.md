@@ -3,6 +3,7 @@ layout: post
 title: Resources
 description: 'More Information about the trail and becoming a member'
 nav-menu: true
+show_tile: false
 ---
 
 <p>This page includes a few working documents that we use to keep track of all the information we've used to build the Co-op Trail as well as information about how our organization is run.</p>
