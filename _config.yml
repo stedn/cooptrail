@@ -19,7 +19,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-facebook_url:
+facebook_url: https://www.facebook.com/TheCoopTrail
 instagram_url: https://www.instagram.com/coop_trail/
 linkedin_url: https://www.linkedin.com/company/coop-trail/
 slack_url:
