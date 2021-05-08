@@ -21,11 +21,11 @@ tiles-count: 6
 # social settings
 facebook_url: https://www.facebook.com/TheCoopTrail
 instagram_url: https://www.instagram.com/cooptrail/
-linkedin_url: https://www.linkedin.com/company/coop-trail/
+linkedin_url: https://www.linkedin.com/company/thecooptrail/
 slack_url:
 twitter_url: https://twitter.com/TheCoopTrail
 youtube_url: https://www.youtube.com/channel/UCjcZqjYIyFCo9SC0YaBy6Mg
-tiktok_url: https://www.tiktok.com/@coop_trail
+tiktok_url: https://www.tiktok.com/@thecooptrail
 
 # build settings
 markdown: kramdown
