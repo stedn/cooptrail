@@ -6,7 +6,7 @@ parent: Point Arena to Arcata
 parent_url: /2021/04/20/pointarena-arcata.html
 highlight: true
 hide_image: true
-image: assets/images/artists-coop-mendocino.png
+image: assets/images/artists-coop-mendocino.jpg
 coop_url: www.artcoopmendocino.com
 ---
 
