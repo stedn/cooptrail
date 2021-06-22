@@ -6,7 +6,7 @@ parent: Point Arena to Arcata
 parent_url: /2021/04/20/pointarena-arcata.html
 highlight: true
 hide_image: true
-image: assets/images/uplift.jepg
+image: assets/images/uplift.jpeg
 coop_url: www.uplift.coop/
 ---
 
