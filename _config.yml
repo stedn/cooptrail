@@ -2,7 +2,7 @@
 title: CO-OP TRAIL
 subtitle:
 email: thecooptrail@gmail.com
-description: 'Sustainable travels through the co-op economy'
+description: 'Sustainable travel via the sustainable economy'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -21,7 +21,7 @@ tiles-count: 6
 # social settings
 facebook_url: https://www.facebook.com/CoopTrail
 instagram_url: https://www.instagram.com/cooptrail/
-linkedin_url: https://www.linkedin.com/company/thecooptrail/
+linkedin_url:
 slack_url:
 twitter_url: https://twitter.com/TheCoopTrail
 youtube_url: https://www.youtube.com/channel/UCjcZqjYIyFCo9SC0YaBy6Mg

@@ -1,8 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Sustainable travels through the co-op economy'
-description: 'Follow along as we navigate across the US using only <br /> the solidarity economy and solar powered ebikes.'
+landing-title: 'Sustainable travel via the sustainable economy'
 image: null
 author: null
 show_tile: false
