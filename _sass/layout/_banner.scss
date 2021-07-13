@@ -4,6 +4,16 @@
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
 
+  #topmap {
+  	opacity:0.5;
+  }
+  #topmapdiv:hover #topmap{
+    opacity:0.9;
+  }
+  #topmapdiv:hover #topmaptext{
+    color:black;
+  }
+
 /* Banner */
 	.mapback {
 		@include vendor('background-image', 'url("../images/bg_map.png")');
