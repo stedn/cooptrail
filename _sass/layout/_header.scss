@@ -125,10 +125,6 @@
 			}
 		}
 
-		&.reveal {
-			@include vendor('animation', 'reveal-header 0.35s ease');
-		}
-
 		&.alt {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
@@ -143,12 +139,6 @@
 			&.style4 { .logo { strong { color: _palette(accent4); } } }
 			&.style5 { .logo { strong { color: _palette(accent5); } } }
 			&.style6 { .logo { strong { color: _palette(accent6); } } }
-		}
-
-		body.is-loading & {
-			&.alt {
-				opacity: 0;
-			}
 		}
 
 		@include breakpoint(xlarge) {
