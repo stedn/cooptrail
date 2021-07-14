@@ -2,7 +2,6 @@
 layout: post
 title: The Co-op Trail's Solar Wagon
 description: Claire explains our homemade sustainable transportation
-highlight: true
 hide_image: true
 image: assets/images/ebike_trailer_claire.jpg
 ---

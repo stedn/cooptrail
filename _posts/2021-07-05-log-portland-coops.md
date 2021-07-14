@@ -5,8 +5,9 @@ description: A co-op tour of Portland
 parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
+highlight: true
 who: The Steddens
-image: assets/images/ebike_trailer_claire.jpg
+image: assets/images/pacific_northwest/portland_coop_loop.jpg
 ---
 
 Portland is a town rich with cooperative businesses.  During our stay in Portland, we took a day to tour a loop to visit all the co-ops we could pack into one day.

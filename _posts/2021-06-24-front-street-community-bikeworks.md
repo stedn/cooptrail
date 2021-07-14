@@ -7,7 +7,7 @@ parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
 highlight: true
 hide_image: false
-image: assets/images/frontstreet0.jpg
+image: assets/images/pacific_northwest/frontstreet0.jpg
 coop_url: www.facebook.com/CoosCommunityBikes/
 ---
 
@@ -20,5 +20,5 @@ On our trip, we got some help repacking the bearings on a broken freewheel and t
 <br/>
 <br/>
 
-<img width="49%" src="/assets/images/frontstreet2.jpg"/>
-<img width="49%" src="/assets/images/frontstreet3.jpg"/>
+<img width="49%" src="/assets/images/pacific_northwest/frontstreet2.jpg"/>
+<img width="49%" src="/assets/images/pacific_northwest/frontstreet3.jpg"/>

@@ -5,8 +5,9 @@ description: Brookings to Tillamook
 parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
+highlight: true
 who: The Steddens
-image: assets/images/ebike_trailer_claire.jpg
+image: assets/images/pacific_northwest/south_oregon_coast.jpg
 ---
 
 The whole of the Southern Oregon coast is a a beautiful and interesting landscape to ride.  The southern portion of this route felt like one of the safer cycling routes compared to other parts of coastal Highway 101.

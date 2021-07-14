@@ -5,9 +5,9 @@ description: Mendocino, CA
 parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
-highlight: true
+highlight: false
 hide_image: true
-image: assets/images/artists-coop-mendocino.jpg
+image: assets/images/pacific_northwest/artists-coop-mendocino.jpg
 coop_url: www.artcoopmendocino.com
 ---
 

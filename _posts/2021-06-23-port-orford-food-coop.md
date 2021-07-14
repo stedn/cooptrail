@@ -5,9 +5,9 @@ description: Port Orford, OR
 parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
-highlight: true
+highlight: false
 hide_image: true
-image: assets/images/portorford.jpg
+image: assets/images/pacific_northwest/portorford.jpg
 coop_url: www.portorfordcoop.com/
 ---
 

@@ -5,8 +5,9 @@ description: Garcia River Hot Springs
 parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
+highlight: false
 who: The Steddens
-image: assets/images/ebike_trailer_claire.jpg
+image: assets/images/pacific_northwest/pointatena-arcata.jpg
 ---
 
 After a 50 mile ride along the bluffs of the Northern California coast from Mendocino to Point Arena complete with rolling hills and ocean spray, we turned inland at Point Arena to reach the hike up the Garcia River.

@@ -7,7 +7,7 @@ parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
 highlight: true
 hide_image: true
-image: assets/images/uplift.jpeg
+image: assets/images/pacific_northwest/uplift.jpeg
 coop_url: www.uplift.coop/
 ---
 

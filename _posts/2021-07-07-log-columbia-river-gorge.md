@@ -5,8 +5,9 @@ description: Portland to Klickitat, WA
 parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
+highlight: true
 who: The Steddens
-image: assets/images/ebike_trailer_claire.jpg
+image: assets/images/pacific_northwest/columbia_gorge.jpg
 ---
 
 Heading east from Portland you can catch the old Columbia River highway, a scenic route along the Columbia River Gorge. This is a stunning area, a gaping gorge shaped by basalt flows and floods, and wonderful biking experience. The old highway was finished in 19xx and later abandoned when a larger highway was built further down the gorge to handle the high traffic. The old highway is being restored to allow visitors to the numerous waterfalls that  drop down the gorge (the highest concentration of waterfalls in the country) and some sections are biking/hiking only. We stopped at the xx hatchery, which you can visit for free, and saw 6ft long sturgeon in their ponds. An ancient fish that hasn't changed much over time and looks prehistoric.

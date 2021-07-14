@@ -5,8 +5,8 @@ description: Mendocino, CA
 parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
-highlight: true
-image: assets/images/corners-of-the-mouth.png
+highlight: false
+image: assets/images/pacific_northwest/corners-of-the-mouth.png
 coop_url: www.cornersofthemouth.com
 ---
 

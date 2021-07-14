@@ -6,7 +6,7 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
 highlight: false
-image: assets/images/arena-market.jpg
+image: assets/images/pacific_northwest/arena-market.jpg
 coop_url: arenamarketandcafe.com
 ---
 
