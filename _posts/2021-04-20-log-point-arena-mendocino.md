@@ -12,7 +12,7 @@ image: assets/images/pacific_northwest/pointatena-arcata.jpg
 
 After a 50 mile ride along the bluffs of the Northern California coast from Mendocino to Point Arena complete with rolling hills and ocean spray, we turned inland at Point Arena to reach the hike up the Garcia River.
 
-We learned the directions along the Garcia River to the remote hot springs there.  The hike up was a long X miles and filled with more than 50 refreshing river crossings.  Very close to the springs we scrambled the rocks to reach the relaxing end.
+We found <a href="https://www.waymarking.com/waymarks/WM29GE">directions</a> along the Garcia River to the remote hot springs.  The hike up was a long but beautiful 9 miles and filled with more than 50 refreshing river crossings.  Very close to the springs we scrambled the rocks to reach the relaxing end.
 
 We stayed close to springs overnight and returned to the trailhead the next day.  We stayed overnight in the forest near the trailhead, and rode back down into Point Arena.  We restocked on supplies for the ride back and grabbed our breakfast and coffee at the Arena Market and Cafe.
 

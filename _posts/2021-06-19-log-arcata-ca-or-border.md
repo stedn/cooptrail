@@ -10,9 +10,9 @@ who: The Steddens
 image: assets/images/ebike_trailer_claire.jpg
 ---
 
-Starting in Arcata, CA stocking up at the North Coast Co-op, we left Arcata via the X route, a local favorite that we learned about from the fantastic women at Moon Cycles Collective. After X miles, this joined back up with 101, which we rode over two days stopping overnight at the X rest area to sleep.
+Starting in Arcata, CA stocking up at the North Coast Co-op, we left Arcata via the Hammond Coastal Trail, a local favorite that we learned about from the fantastic folx at <a href="https://www.arcatamooncycles.com/">Moon Cycles Collective</a>. After about 9 miles, this joined back up with Highway 101, which we rode over two days stopping overnight at the Trinidad North rest area just for a quick sleep.
 
-At mile X, we turned off 101 to take the beautiful scenic route (rode X) which leads to the hiker/biker camp at Elk Meadow Campground in Elk Prairie Redwoods National Park.  This is one of the best hiker/biker areas we stayed at and highly recommended for the views of the elk herd in the area.
+We turned off Highway 101 again to take the beautiful Newton B Drury Scenic Houte which leads to the hiker/biker camp at Elk Meadow Campground in Elk Prairie Redwoods National Park.  This is one of the best hiker/biker areas we stayed at and highly recommended for the views of the elk herd in the area.
 
 The next leg of the trip returns to 101 for a somewhat frustrating but necessary ride along a few shoulderless steep stretches.  After X miles, just after entering Crescent City, take X to Jedidiah State Park for another hiker/biker.  At this park, you can also see the rare albino redwoods, which don't produce chlorophyll in their leaves instead rleying on nutrients from neighboring trees.
 
