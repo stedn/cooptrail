@@ -6,7 +6,6 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: false
-who: The Steddens
 image: assets/images/pacific_northwest/pointatena-arcata.jpg
 ---
 
