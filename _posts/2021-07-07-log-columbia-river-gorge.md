@@ -8,6 +8,7 @@ post_type: log
 highlight: true
 who: The Steddens
 image: assets/images/pacific_northwest/columbia_gorge.jpg
+directions: https://graphhopper.com/maps/?point=45.518978%2C-122.391987&point=45.516392%2C-122.342763&point=45.518617%2C-122.318859&point=45.715649%2C-121.78997&point=45.707378%2C-121.447678&point=45.824493%2C-121.100407&locale=en-us&elevation=true&profile=bike&use_miles=false&selected_detail=Elevation&layer=TF%20Cycle
 ---
 
 Heading east from Portland you can catch the old Columbia River highway, a scenic route along the Columbia River Gorge. This is a stunning area, a gaping gorge shaped by basalt flows and floods, and wonderful biking experience. The old highway was finished in 19xx and later abandoned when a larger highway was built further down the gorge to handle the high traffic. The old highway is being restored to allow visitors to the numerous waterfalls that  drop down the gorge (the highest concentration of waterfalls in the country) and some sections are biking/hiking only. We stopped at the xx hatchery, which you can visit for free, and saw 6ft long sturgeon in their ponds. An ancient fish that hasn't changed much over time and looks prehistoric.
