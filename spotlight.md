@@ -1,5 +1,5 @@
 ---
-title: Co-Op Spotlights
+title: Co-op Spotlights
 layout: page
 description: 'Check out our documentary series about the co-ops along the trail.'
 image: assets/images/cooptraillogo.png
