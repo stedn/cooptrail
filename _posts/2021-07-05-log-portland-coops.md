@@ -6,7 +6,6 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: true
-who: The Steddens
 image: assets/images/pacific_northwest/portland_coop_loop.jpg
 directions: https://graphhopper.com/maps/?point=45.471147%2C-122.685492&point=45.473073%2C-122.685184&point=45.486316%2C-122.684675&point=45.535513%2C-122.703917&point=45.560518%2C-122.663405&point=45.559091%2C-122.649565&point=45.560308%2C-122.645295&point=45.560248%2C-122.63669&point=45.559362%2C-122.630661&point=45.512542%2C-122.593389&point=45.500655%2C-122.644651&point=45.480716%2C-122.654757&point=45.469251%2C-122.670529&point=45.471086%2C-122.685485&locale=en-us&elevation=true&profile=bike&use_miles=false&selected_detail=Elevation&layer=TF%20Cycle
 ---

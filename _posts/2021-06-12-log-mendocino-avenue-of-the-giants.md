@@ -7,8 +7,7 @@ parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: false
 hide_image: true
-who: The Steddens
-image: assets/images/ebike_trailer_claire.jpg
+image: assets/images/pacific_northwest/mendocino.jpg
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
