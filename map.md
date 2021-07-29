@@ -10,7 +10,7 @@ show_tile: false
 
 <p>This is a map of the segments we have worked on so far. Click on a segment to go to the detailed directions and documentary series for each, or view below for each segment description.</p>
 
-<div class="iframeholder"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/co-op-trail_531479?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe></div><p><a href="//umap.openstreetmap.fr/en/map/co-op-trail_531479">See full screen</a></p>
+<div class="iframeholder"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/co-op-trail_590524?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe></div><p><a href="//umap.openstreetmap.fr/en/map/co-op-trail_531479">See full screen</a></p>
 
 <section id="two" class="spotlights">
     <h2 style="margin-top:5%;text-align:center;">Trail Segments</h2>
