@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co-Op Trail Map
+title: Trail Cooperative Map
 nav-menu: true
 show_tile: false
 ---

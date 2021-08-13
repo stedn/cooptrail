@@ -7,6 +7,6 @@ route: true
 map: point-arena-ca-to-arcata-ca_590524
 ---
 
-The Pacific Northwest was the first segment of the Co-op Trail to be explored.  The two most prominent features of the area are the breathtaking coastal cliffs and the magnificent giant coastal rainforests of various kinds.  This segment of the trail starts to the south in Pomo territory and continues north through the lands of the Yuki, Cahto, Sinkyone, and Mattole peoples and finally up into Wiyot country in the north.  We are grateful to these First Peoples for stewarding this land for thousands of years before we got here.
+The Pacific Northwest was the first segment of the Trail Cooperative to be explored.  The two most prominent features of the area are the breathtaking coastal cliffs and the magnificent giant coastal rainforests of various kinds.  This segment of the trail starts to the south in Pomo territory and continues north through the lands of the Yuki, Cahto, Sinkyone, and Mattole peoples and finally up into Wiyot country in the north.  We are grateful to these First Peoples for stewarding this land for thousands of years before we got here.
 
 

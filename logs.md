@@ -1,7 +1,7 @@
 ---
 title: Travel Logs
 layout: page
-description: 'Read highlighted routes along the Co-op Trail'
+description: 'Read highlighted routes along the Trail Cooperative'
 image: assets/images/bg_map.png
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ nav-menu: true
         <header class="major">
             <h1>Travel Log</h1>
         </header>
-        <p>As maintainers travel the Co-op Trail, we document our routes, points of interest, bike shops, campsites, resupplies points, and interesting co-ops so you can travel sustainably too.  Check out our highlighted travel logs from our US tour and see the <a href="map.html">full map</a> for all our routes and co-ops.</p>
+        <p>As maintainers travel the Trail Cooperative, we document our routes, points of interest, bike shops, campsites, resupplies points, and interesting co-ops so you can travel sustainably too.  Check out our highlighted travel logs from our US tour and see the <a href="map.html">full map</a> for all our routes and co-ops.</p>
     </div>
 </section>
 

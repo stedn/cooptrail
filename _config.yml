@@ -1,8 +1,8 @@
 # site settings
-title: CO-OP TRAIL
+title: TRAIL COOPERATIVE
 subtitle:
 email: thecooptrail@gmail.com
-description: 'Regenerative travel in the regenerative economy'
+description: 'Finding a regenerative travel community'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Regenerative travel in the regenerative economy'
+landing-title: 'Finding a regenerative travel community'
 image: null
 author: null
 show_tile: false

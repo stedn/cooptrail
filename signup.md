@@ -7,7 +7,7 @@ show_tile: false
 ---
 
 <div style="max-width:800px;margin:auto;text-align:center;">
-Add your email to join the Co-op Trail community.  We will send updates quarterly on the progress of the project and recent highlights.  By joining our email list you also have the option to be a <a href="https://docs.google.com/document/d/1_CVkHxXW4NXf43kqpFtWBO2jwO6y82_tUvGkTU4SqGo/edit?usp=sharing">community member stakeholder</a>, and are eligible to vote to help the Co-op Trail make major decisions.
+Add your email to join the Trail Cooperative community.  We will send updates quarterly on the progress of the project and recent highlights.  By joining our email list you also have the option to be a <a href="https://docs.google.com/document/d/1_CVkHxXW4NXf43kqpFtWBO2jwO6y82_tUvGkTU4SqGo/edit?usp=sharing">community member stakeholder</a>, and are eligible to vote to help the Trail Cooperative make major decisions.
 </div>
 <!-- Begin Mailchimp Signup Form -->
 
