@@ -8,7 +8,7 @@ show_tile: false
 {% assign mytiles = site.posts | where_exp: "item", "item.route == true" %}
 
 
-<p>This is a map of the segments we have worked on so far. Click on a segment to go to the detailed directions and documentary series for each, or view below for each segment description.</p>
+<p>This is a map of the segments we have worked on so far. Routes and resources for regenerative travel appear on the map below.</p>
 
 <div class="iframeholder"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/co-op-trail_590524?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe></div><p><a href="//umap.openstreetmap.fr/en/map/co-op-trail_531479">See full screen</a></p>
 
