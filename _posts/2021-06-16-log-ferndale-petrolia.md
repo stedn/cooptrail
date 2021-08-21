@@ -6,6 +6,7 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: true
+hide_image: true
 image: assets/images/pacific_northwest/wildcat.jpg
 ---
 

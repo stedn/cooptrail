@@ -6,6 +6,7 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: true
+hide_image: true
 image: assets/images/pacific_northwest/south_oregon_coast.jpg
 directions: https://graphhopper.com/maps/?point=42.068474%2C-124.31468&point=42.74583%2C-124.49692&point=42.789102%2C-124.491749&point=42.729014%2C-124.396391&point=43.330617%2C-124.371586&point=43.340161%2C-124.264812&point=43.37202%2C-124.211533&point=43.95736%2C-124.119587&locale=en-us&elevation=true&profile=bike&use_miles=false&selected_detail=Elevation&layer=TF%20Cycle
 ---

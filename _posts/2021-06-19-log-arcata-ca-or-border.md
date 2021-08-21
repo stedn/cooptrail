@@ -6,6 +6,7 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: false
+hide_image: true
 image: assets/images/ebike_trailer_claire.jpg
 directions: https://graphhopper.com/maps/?point=40.888763%2C-124.087937&point=41.052593%2C-124.121561&point=41.797904%2C-124.086242&point=41.957958%2C-124.200225&point=42.068474%2C-124.31468&locale=en-us&elevation=true&profile=bike&use_miles=false&selected_detail=Elevation&layer=TF%20Cycle
 ---

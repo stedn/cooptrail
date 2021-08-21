@@ -6,6 +6,7 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: true
+hide_image: true
 image: assets/images/pacific_northwest/columbia_gorge.jpg
 directions: https://graphhopper.com/maps/?point=45.518978%2C-122.391987&point=45.516392%2C-122.342763&point=45.518617%2C-122.318859&point=45.715649%2C-121.78997&point=45.707378%2C-121.447678&point=45.824493%2C-121.100407&locale=en-us&elevation=true&profile=bike&use_miles=false&selected_detail=Elevation&layer=TF%20Cycle
 ---

@@ -6,7 +6,7 @@ parent: Pacific Northwest
 parent_url: /2021/04/20/pacific-northwest.html
 post_type: log
 highlight: true
-who: The Steddens
+hide_image: true
 image: assets/images/pacific_northwest/south_oregon_coast.jpg
 directions: https://graphhopper.com/maps/?point=43.95736%2C-124.119587&point=45.364207%2C-123.968525&point=45.456518%2C-123.841324&point=45.548198%2C-123.176651&point=45.471809%2C-122.720547&locale=en-us&elevation=true&profile=bike&use_miles=false&selected_detail=Elevation&layer=TF%20Cycle
 ---
