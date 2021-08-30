@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Trail Cooperative Map
+description: Routes to help you on your journey to a regenerative world
 nav-menu: true
-show_tile: false
+show_tile: true
+image: assets/images/topmap.png
 ---
 
 {% assign mytiles = site.posts | where_exp: "item", "item.route == true" %}

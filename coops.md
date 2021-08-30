@@ -1,12 +1,11 @@
 ---
-title: Travel Logs
+title: Cooperative Spotlights
 layout: page
-description: 'Read highlighted routes along the Trail Cooperative'
-image: assets/images/bg_map.png
+description: 'Check out our documentary series about cooperative and regenerative businesses along the trail.'
+image: assets/images/cooptraillogo.png
 nav-menu: true
-show_tile: false
 ---
-{% assign mytiles = site.posts | where_exp: "item", "item.post_type == 'log' and item.highlight == true" %}
+{% assign mytiles = site.posts | where_exp: "item", "item.post_type == 'coop' and item.highlight == true" %}
 
 <!-- Main -->
 <div id="main">
@@ -14,10 +13,10 @@ show_tile: false
 <section id="one">
     <div class="inner">
         <header class="major">
-            <h1>Travel Log</h1>
+            <h1>Co-Op Spotlights</h1>
         </header>
-        <p>As maintainers travel the Trail Cooperative, we document our routes, points of interest, bike shops, campsites, resupplies points, and interesting co-ops so you can travel sustainably too.  Check out our highlighted travel logs from our US tour and see the <a href="map.html">full map</a> for all our routes and co-ops.</p>
-    </div>
+        <p>Below we have some highlights of the cooperative profiles that we've taken.  Browse the videos below or check out all our spotlights on our Stories Page.  And don't forget to checkout the Trail Map find even more ways to connect along the Trail.</p>
+	</div>
 </section>
 
 <!-- Two -->

@@ -2,7 +2,7 @@
 title: TRAIL COOPERATIVE
 subtitle:
 email: thecooptrail@gmail.com
-description: 'Finding a regenerative travel community'
+description: 'Connect with the regenerative travel community'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -25,7 +25,7 @@ linkedin_url:
 slack_url:
 twitter_url: https://twitter.com/TheCoopTrail
 youtube_url: https://www.youtube.com/channel/UCjcZqjYIyFCo9SC0YaBy6Mg
-tiktok_url: https://www.tiktok.com/@thecooptrail
+tiktok_url: https://www.tiktok.com/@trailcooperative
 
 # build settings
 markdown: kramdown
