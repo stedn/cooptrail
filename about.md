@@ -7,6 +7,8 @@ hide_image: true
 nav-menu: true
 ---
 
+<p>The Trail Cooperative is a regenerative travel community.  We aim to support our members in their mission to become socially and enviornmentally conscious travelers, contributing to the places they visit through ecological restoration, regenerative agriculture, social justice advocacy, and supporting the solidarity economy. Our goal is to help as many people as possible get access to wilderness adventure while working to collectively minimize our enviornmental and societal damage. Experiencing the beauty and awe of nature reminds us of our connections to all life on this planet and inspires us all to save it, but traveling in a destructive way is counter productive to this goal. We hope this mission inspires you and that you find that you'd like to <a href="join.html">join us</a>.</p>
+
 <h2>What motivated us to start the Trail Cooperative?</h2>
 <p><span class="image left"><img src="assets/images/banner.jpg" alt="" /></span>The Trail Cooperative is about jumpstarting a movement for truly <a href="regenerative-travel.html">regenerative travel</a>, which entails both an eco-friendly mode of transport as well as being more than consumers in the places we visit.  We feel that we're part of larger awakening taking place about environmental, social and economic justice, and the Trail Cooperative is our attempt to join in this movement by connecting people and organizations so that we can all find a truly sustainable way for <em>everyone</em> to hit the trail. </p>
 
