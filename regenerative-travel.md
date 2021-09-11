@@ -17,7 +17,7 @@ The 3 most important aspects of regenerative travel are planet, people and commu
 
 
 
-<h2>Whhy sustainable transportation? </h2>
+<h2>Why sustainable transportation? </h2>
 <p>Transportation makes up about 25% of the carbon emissions in the US, and by traveling by car or plane the legacy we leave future generations is a warmer planet with a more chatoic climate. But there are way to experience the world with a minimal carbon footprint!
 
 <p>At the Trail Cooperative, we treat sustainability to mean being able to answer the following question:</p>
