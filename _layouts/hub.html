@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<!--
+    Forty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+    <div class="inner">
+        <header class="major" style="width:100%">
+            <div>
+                <h1 style="display:flex;">{{ page.title }}</h1>
+                <div>
+                {% if page.description %}
+                    <strong style="display:flex;justify-content: flex-end;">{{ page.description }}</strong>
+                {% endif %}
+                </div>
+
+            </div>
+        </header>
+
+
+        {% if page.map %}
+            <div class="iframeholder image left"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/{{ page.map }}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+                <p><a href="//umap.openstreetmap.fr/en/map/{{ page.map }}">Full Screen</a>
+                {% if page.directions %}<a href="{{ page.directions }}">Directions</a>
+                {% endif %}
+            </p>
+            </div>
+        {% endif %}
+
+
+        <div >
+            <p>{{ page.blurb }} </p>
+
+            <p><strong>Group Forum:</strong> <a href="{{ page.group_forum }}">{{ page.group_forum }}</a></p>
+            <p><strong>Add Route:</strong> <a href="{{ page.group_forum }}">{{ page.group_forum }}</a></p>
+            <p><strong>Add Organization:</strong> <a href="{{ page.group_forum }}">{{ page.group_forum }}</a></p>
+
+        </div>
+    </div>
+</section>
+<div class="inner" style="clear:both;">
+    <section id="two" class="spotlights">
+        <h2 style="margin-top:5%;text-align:center;">Trail Segments</h2>
+    </section>
+
+    <section id="three" class="major">
+
+    </section>
+
+
+
+</div>
+
+</div>
+
+    {% include footer.html %}
+
+
+<script>
+fetch("{{ page.spreadsheet_url }}")
+    .then(res => res.text())
+    .then(text => {
+        meta_result = JSON.parse(text.substr(47).slice(0, -2))
+
+        console.log(meta_result)
+
+        keys = []
+        for (var i = 0; i < 7; i += 1){
+          keys.push(meta_result.table.rows[0].c[i].v)
+        }
+        var data = [];
+        for (var i = 1; i < meta_result.table.rows.length; i += 1) {
+          to_push = {};
+          for (var j = 0; j < 7; j += 1){
+            if (meta_result.table.rows[i].c[j] != null){
+                to_push[keys[j]]=meta_result.table.rows[i].c[j].v
+            }
+          }
+          data.push(to_push)
+        }
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        if (urlParams.has('route')){
+            route = urlParams.get('route');
+            document.getElementById('two').style.display = 'none';
+            var newElement = document.createElement("section");
+            to_add = `<h2 style="margin-top:5%;text-align:center;">${data[route].name}</h2>
+                            <strong style="display:flex;justify-content: flex-end;">${data[route].description}</strong>
+                            `
+            if (data[route].image != null) {
+                to_add += `<div class="iframeholder image right"><img src="${data[route].image}"></img></div>`
+            }
+            // if (data[route].image != null) {
+            //     to_add += `<div class="iframeholder image right"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="${data[route].directions}"></iframe></div>`
+            // }
+            to_add += data[route].html
+            newElement.innerHTML = to_add
+            document.getElementById("three").appendChild(newElement);
+        } else{
+            for (var i  = 0; i < data.length; i += 1){
+                var newElement = document.createElement("section");
+                newElement.innerHTML = `<a href="#" class="image">
+                            <img src="?route=${i}" alt="" data-position="center center" />
+                        </a>
+                        <div class="content">
+                            <div class="inner">
+                                <header class="major">
+                                    <h3>
+                                        <a href="?route=${i}">${data[i].name}</a>
+                                    </h3>
+                                </header>
+                                <p>${data[i].description}</p>
+                                <ul class="actions">
+                                    <li><a href="?route=${i}" class="button">Learn more</a></li>
+                                </ul>
+                            </div>
+                        </div>`
+                document.getElementById("two").appendChild(newElement);
+            }
+        }
+    })
+</script>
+</body>
+
+</html>

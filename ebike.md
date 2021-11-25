@@ -5,6 +5,7 @@ description: 'Learn more about our attempts to make vanlife sustainable'
 image: assets/images/banner.jpg
 hide_image: true
 nav-menu: true
+show_tile: false
 ---
 
 <h2>Why bike touring? Why solar ebike?</h2>
