@@ -8,7 +8,7 @@ spreadsheet_url: https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4q
 nav-menu: false
 show_tile: false
 hide_image: true
-image: assets/images/topmap.png
+image: assets/images/pacific_northwest/seattle.jpg
 map: western-washington_684826
 ---
 

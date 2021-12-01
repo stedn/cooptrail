@@ -26,71 +26,23 @@
 				{% if page.description %}
 					<strong style="display:flex;justify-content: flex-end;">{{ page.description }}</strong>
 				{% endif %}
-				{% if page.parent %}
-					<a href="{{ page.parent_url | relative_url }}"><strong style="display:flex;justify-content: flex-end;text-decoration:underline;">{{ page.parent }} Trail</strong></a>
-				{% endif %}
-				{% if page.route %}
-					<a href="/map.html"><strong style="display:flex;justify-content: flex-end;text-decoration:underline;">Back to Main Map</strong></a>
-				{% endif %}
-				{% if page.coop_url %}
-					<a href="http://{{ page.coop_url }}" target="_blank">
-						<span style="display:flex;justify-content: flex-end;text-decoration:underline;">{{ page.coop_url }}</span>
-					</a>
-				{% endif %}
 				</div>
 
 			</div>
 		</header>
 		{% if page.image %}
 			{% unless page.hide_image %}
-				{% unless page.map %}
-					{% if page.coop_url %}<a href="{{ page.coop_url }}">{% endif %}
-						<span class="image left"><img src="{{ page.image | relative_url}}" alt="" /></span>
-					{% if page.coop_url %}</a>{% endif %}
-				{% endunless %}
+				<span class="image left"><img src="{{ page.image | relative_url}}" alt="" /></span>
 			{% endunless %}
-		{% endif %}
-
-		{% if page.map %}
-
-			<div class="iframeholder image left"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/{{ page.map }}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
-				<p><a href="//umap.openstreetmap.fr/en/map/{{ page.map }}">Full Screen</a>
-				{% if page.directions %}<a href="{{ page.directions }}">Directions</a>
-				{% endif %}
-			</p>
-			</div>
 		{% endif %}
 
 
 		{{ content }}
 
-		{% assign rtiles = site.posts | where_exp: "item", "item.parent == page.title and item.post_type == 'coop' " %}
-		{% assign ltiles = site.posts | where_exp: "item", "item.parent == page.title and item.post_type == 'log' " %}
+		{% assign rtiles = site.posts | where_exp: "item", "item.post_type == page.post_type" %}
 
-		<section id="two" class="spotlights">
-			{% if page.route == true %}<h2 style="margin-top:5%;text-align:center;">{{ page.title }} Travel Logs</h2> {% endif %}
-
-		    {% for tile in ltiles reversed %}
-		    <section>
-		        <a href="{{ tile.url  | relative_url }}" class="image" style="max-height:300px;overflow:hidden;">
-		            <img src="{{ tile.image | relative_url }}" alt="{{ tile.title }}" />
-		        </a>
-		        <div class="content">
-		            <div class="inner">
-		                <header class="major">
-		                    <h3><a href="{{ tile.url  | relative_url }}">{{ tile.title }}</a></h3>
-		                </header>
-		                <p>{{ tile.description }}</p>
-		                <ul class="actions">
-		                    <li><a href="{{ tile.url  | relative_url }}" class="button">Learn more</a></li>
-		                </ul>
-		            </div>
-		        </div>
-		    </section>
-		    {% endfor %}
-		</section>
 		<section id="three" class="spotlights">
-			{% if page.route == true %}<h2 style="margin-top:5%;text-align:center;">{{ page.title }} Co-op Spotlights</h2> {% endif %}
+			<h2 style="margin-top:5%;text-align:center;">Related Posts</h2>
 
 		    {% for tile in rtiles reversed %}
 		    <section>

@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Trail Cooperative Map
+layout: page
+title: Region Map
 description: Routes to help you on your journey to a regenerative world
 nav-menu: true
 show_tile: true
@@ -8,15 +8,15 @@ hide_image: true
 image: assets/images/topmap.png
 ---
 
-{% assign mytiles = site.posts | where_exp: "item", "item.route == true" %}
+{% assign mytiles = site.html_pages | where_exp: "item", "item.layout == 'hub'" %}
 
 
-<p>This is a map of the segments we have worked on so far. Click on a segment for routes and resources on regenerative travel in that region.</p>
+<p>We're building the Trail Cooperative around regional hubs to help <a href="about.html">foster a community</a> dedicated to <a href="regenerative-travel.html">regenerative travel</a>. Click on a region for routes and resources on regenerative travel in that area.</p>
 
 <div class="iframeholder"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/trail-cooperative-overview_684823?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe></div><p><a href="//umap.openstreetmap.fr/en/map/trail-cooperative-overview_684823">See full screen</a></p>
 
 <section id="two" class="spotlights">
-    <h2 style="margin-top:5%;text-align:center;">Trail Segments</h2>
+    <h2 style="margin-top:5%;text-align:center;">Trail Regions</h2>
     {% for tile in mytiles reversed %}
     <section>
         <a href="{{ tile.url  | relative_url }}" class="image">

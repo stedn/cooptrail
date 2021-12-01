@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <!--
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+    Forty by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 
@@ -10,7 +10,45 @@
 
 <body>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
+    {% include header.html %}
+
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+    <div class="inner">
+        <header class="major" style="width:100%">
+            <div>
+                <h1 style="display:flex;">{{ page.title }}</h1>
+                <div>
+                {% if page.description %}
+                    <strong style="display:flex;justify-content: flex-end;">{{ page.description }}</strong>
+                {% endif %}
+                </div>
+
+            </div>
+        </header>
+        {% if page.image %}
+            {% unless page.hide_image %}
+                <span class="image left"><img src="{{ page.image | relative_url}}" alt="" /></span>
+            {% endunless %}
+        {% endif %}
+
+
+        {{ content }}
+
+    </div>
+</section>
+
+
+
+</div>
+
+
+
+    {% include footer.html %}
 
 </body>
 
