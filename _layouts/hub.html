@@ -67,15 +67,13 @@ fetch("{{ page.spreadsheet_url }}")
     .then(res => res.text())
     .then(text => {
         meta_result = JSON.parse(text.substr(47).slice(0, -2))
-
         console.log(meta_result)
-
         keys = []
         for (var i = 0; i < 7; i += 1){
-          keys.push(meta_result.table.rows[0].c[i].v)
+          keys.push(meta_result.table.cols[i].label)
         }
         var data = [];
-        for (var i = 1; i < meta_result.table.rows.length; i += 1) {
+        for (var i = 0; i < meta_result.table.rows.length; i += 1) {
           to_push = {};
           for (var j = 0; j < 7; j += 1){
             if (meta_result.table.rows[i].c[j] != null){
@@ -84,6 +82,7 @@ fetch("{{ page.spreadsheet_url }}")
           }
           data.push(to_push)
         }
+        console.log(data)
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
         if (urlParams.has('route')){
@@ -91,9 +90,9 @@ fetch("{{ page.spreadsheet_url }}")
             document.getElementById('two').style.display = 'none';
             if (data[route].zoom){
                 document.getElementById('mainmap').innerHTML=`
-                    <iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/{{ page.map }}#10/48.0414/-123.3600?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+                    <iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/{{ page.map }}${data[route].zoom}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
                     <p><a href="//umap.openstreetmap.fr/en/map/{{ page.map }}">Full Screen</a>
-                    <a id="" href="{{ page.directions }}">Directions</a>
+                    <a id="directions" href="{{ page.directions }}">Directions</a>
                 </p>`
             }
 
@@ -110,19 +109,6 @@ fetch("{{ page.spreadsheet_url }}")
                 to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
             }
             document.getElementById('blurbholder').innerHTML = to_add;
-
-
-            // var newElement = document.createElement("section");
-            // to_add = ``
-            // if (data[route].image != null) {
-            //     to_add += `<div class="iframeholder image right"><img src="${data[route].image}"></img></div>`
-            // }
-            // // if (data[route].image != null) {
-            // //     to_add += `<div class="iframeholder image right"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="${data[route].directions}"></iframe></div>`
-            // // }
-            // to_add += data[route].html
-            // newElement.innerHTML = to_add
-            // document.getElementById("three").appendChild(newElement);
         } else{
             for (var i  = 0; i < data.length; i += 1){
                 var newElement = document.createElement("section");
@@ -146,11 +132,7 @@ fetch("{{ page.spreadsheet_url }}")
                         </a>` + to_add
                 }
                 newElement.innerHTML = to_add
-                if (data[i].type == 'route'){
-                    document.getElementById("two").appendChild(newElement);
-                } else {
-                    document.getElementById("two_two").appendChild(newElement);
-                }
+                document.getElementById("two").appendChild(newElement);
             }
         }
     })
