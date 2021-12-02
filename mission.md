@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 'About the Trail Cooperative'
-description: 'The motivation behind the Trail Cooperative'
+description: 'The mission behind the Trail Cooperative'
 image: assets/images/us.jpg
 hide_image: true
 nav-menu: true
 ---
 
-<p>The Trail Cooperative is a regenerative travel community.  We aim to support our members in their mission to become socially and enviornmentally conscious travelers, contributing to the places they visit through ecological restoration, regenerative agriculture, social justice advocacy, and supporting the solidarity economy. Our goal is to help as many people as possible get access to wilderness adventure while working to collectively minimize our environmental and societal damage. Experiencing the beauty and awe of nature reminds us of our connections to all life on this planet and inspires us all to save it, but traveling in a destructive way is counter productive to this goal. We hope this mission inspires you and that you find that you'd like to <a href="join.html">join us</a>.</p>
+<p>The Trail Cooperative is a <a href="regenerative-travel.html">regenerative travel</a> community.  We aim to support our members in their mission to become socially and enviornmentally conscious travelers, contributing to the places they visit through ecological restoration, regenerative agriculture, social justice advocacy, and supporting the solidarity economy. Our goal is to help as many people as possible get access to wilderness adventure while working to collectively minimize our environmental and societal damage. Experiencing the beauty and awe of nature reminds us of our connections to all life on this planet and inspires us all to save it, but traveling in a destructive way is counter productive to this goal. We hope this mission inspires you and that you find that you'd like to <a href="join.html">join us</a>.</p>
 
 <h2>What motivated us to start the Trail Cooperative?</h2>
 <p><span class="image left"><img src="assets/images/banner.jpg" alt="" /></span>The Trail Cooperative is about jumpstarting a movement for truly <a href="regenerative-travel.html">regenerative travel</a>, which entails both an eco-friendly mode of transport as well as being more than consumers in the places we visit.  We feel that we're part of larger awakening taking place about environmental, social and economic justice, and the Trail Cooperative is our attempt to join in this movement by connecting people and organizations so that we can all find a truly sustainable way for <em>everyone</em> to hit the trail. </p>
@@ -16,7 +16,7 @@ nav-menu: true
 
 <h2>How does the Trail Cooperative work?</h2>
 <p>
-    By signing up to join the Trail Cooperative you get connected with people all over the world who want to create and explore a better world.  You can search the map for places to travel, and find a network of places where you can stay for free and borrow outdoor equipment while you explore new places and give back to the communities you visit.
+    By signing up to join the Trail Cooperative you get connected with people all over the world who want to create and explore a better world.  You can search the map for places to travel, and find a network of places where you can stay for free and borrow outdoor equipment while you explore new places and give back to the communities you visit.  And the best part is that everything about this cooperative is free to use and free to contribute to.
 </p>
 <p>The Trail Cooperative network fosters informal connections to local groups focused on these and many other aspects of a regenerative ecosystem.  In exchange for traveling regeneratively as a part of the Trail, hosts offer housing, food, and borrowing their outdoor equipment to enjoy the beautiful outdoors.</p>
 
@@ -48,6 +48,5 @@ nav-menu: true
 <p>We rely heavily on the <a href="https://solidarityeconomy.us/
 ">Solidarity Economy Map</a>, <a href="https://identity.coop/directory">identity.coop directory</a> and the <a href="https://www.usworker.coop/directory/">US Federation of Worker Cooperatives directory</a> to find locations to connect. For larger towns and cities that we were visiting, we would also search for "cooperatives" along with the city name to find other cooperatives not included on those sites. Check out our <a href="/resources.html">Resources Page</a> to get more information about all the sources we used. The goal is to continue to flesh out the trail over multiple trips during the next few years.  If you have a suggestion for any additional resources you think would be helpful, please send them our way with the form at the bottom of this page.</p>
 
-<h2>Who are the Trail Curators?</h2>
-<p>Anyone can be a Trail Curator!  The founding Trail Curators are <a href="https://www.linkedin.com/in/clairestedden">Claire</a> and <a href="https://will.stedden.org/">Will</a>, but anyone with an interest in the solidarity economy can join our <a href="https://discord.gg/6VbCwAcHwg">Discord</a> to contribute routes.  We want to build as many routes as possible and document all the fantastic work happening in the solidarity economy.
-
+<h2>Who are the Trail Maintainers?</h2>
+<p>Anyone can be a Trail Maintainer!  The founding maintainers are <a href="https://www.linkedin.com/in/clairestedden">Claire</a> and <a href="https://will.stedden.org/">Will</a>, but anyone with an interest in the solidarity economy can contribute routes or organizations.  We want to build as many routes as possible and document all the fantastic work happening in the solidarity economy.

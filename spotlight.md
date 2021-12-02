@@ -4,6 +4,7 @@ layout: page
 description: 'Check out our documentary series about the co-ops along the trail.'
 image: assets/images/cooptraillogo.png
 nav-menu: true
+hide_image: true
 ---
 {% assign mytiles = site.posts | where_exp: "item", "item.post_type == 'coop' and item.highlight == true" %}
 
