@@ -1,0 +1,4622 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bici_Coop|Bici Coop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.72907,
+                    33.45177049999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Delta_Bike_Project|Delta Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0498154,
+                    30.6901266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/University_of_Alaska_at_Anchorage_Bike_Club|University of Alaska at Anchorage Bike Club]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.8195598,
+                    61.1910421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Off_the_Chain_Bicycle_Collective|Off the Chain Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.9102673,
+                    61.1900661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_City_Recyclery|Bike City Recyclery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.14381399999999,
+                    36.1177482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Pedal_It_Forward|Pedal It Forward]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.221336,
+                    36.4229136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recycles_Bike_Co-op|Recycles Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.25957439999999,
+                    34.7631602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/South_Side_Mutual_Aid_Toward_Independent_Youth_Bicycle_Education_Project|South Side Mutual Aid Toward Independent Youth Bicycle Education Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.651302,
+                    35.1982836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/BICAS|BICAS]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.9707616,
+                    32.2462558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Helping_Understand_Bicycles|Helping Understand Bicycles]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.462697,
+                    34.54519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Saviours_Bicycle_Collective|Bike Saviours Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9050966,
+                    33.4258547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Rusty_Spoke|The Rusty Spoke]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.087223,
+                    33.455768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Changing_Gears_Bike_Shop|Changing Gears Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2992069,
+                    37.7842669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Arcata_Library_Bikes|Arcata Library Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.0898774,
+                    40.8728157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=The_Bicycle_Tree&action=edit&redlink=1|The Bicycle Tree]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.8748809,
+                    33.7597312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/BicyCAL|BicyCAL]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2591478,
+                    37.8713136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.orghttps://shop.watersideworkshops.org/|Waterside Workshops]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3014614,
+                    37.8641586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Green_Bike_Program|The Green Bike Program]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.7050738,
+                    34.1042832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Concord|Bike Concord]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.0267236,
+                    37.9803419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Davis_Bike_Collective|The Davis Bike Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7344863,
+                    38.5473802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.orghttps://www.thebikecampaign.com/the-bike-garage|Bike Garage]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7379842,
+                    38.561081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bicycle_Kitchen_(Los_Angeles)|Bicycle Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2862334,
+                    34.0959234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Oven|Bike Oven]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2121743,
+                    34.0901015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikerowave|Bikerowave]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.432409,
+                    34.0045672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Valley_Bikery|Valley Bikery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4654517,
+                    34.1932242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Burbike_Workspace|Burbike Workspace]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3093277,
+                    34.1799474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikery_(Oakland,_CA,_USA)|Bikery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2361111,
+                    37.7830556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Spokeland|Spokeland]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2723082,
+                    37.8266393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Ontario_Wheel_House|Ontario Wheel House]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.548642,
+                    34.0632779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Silicon_Valley_Bicycle_Exchange|Silicon Valley Bicycle Exchange]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1030848,
+                    37.4306114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Caltech_Bike_Lab|Caltech Bike Lab]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1230425,
+                    34.1361311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bicycle_Lounge|The Bicycle Lounge]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.210651,
+                    36.3671757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Sacramento_Bicycle_Kitchen|Sacramento Bicycle Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4799635,
+                    38.5783633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikes_Del_Pueblo|Bikes Del Pueblo]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.107854,
+                    32.75539699999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Hut_Foundation|The Bike Hut Foundation]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3877484,
+                    37.7817203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Kitchen_(San_Francisco)|The Bike Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4115807,
+                    37.7609808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Good_Karma_Bikes|Good Karma Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9080573,
+                    37.3205317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Local_Bike_Trader|Local Bike Trader]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7201692,
+                    38.8848479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/SLO_Bike_Kitchen|SLO Bike Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.6606467,
+                    35.279077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Trips_for_Kids_Marin|Trips for Kids Marin aka Re-Cyclery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5211718,
+                    37.9725078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bici_Centro|Bici Centro]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.6894461,
+                    34.4221622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Church_(Santa_Cruz,_CA,_USA)|The Bike Church]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.025155,
+                    36.968546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Santa_Cruz_Campus_Bike_Center|Santa Cruz Campus Bike Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.0564889,
+                    36.95960540000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Santa_Cruz_Bicycle_Exchange_(Santa_Cruz,_CA_USA)|Santa Cruz Bicycle Exchange]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.0564889,
+                    36.95960540000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Ventura_Bike_HUB|Ventura Bike HUB]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.298799,
+                    34.287131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Community_Cycles|Community Cycles]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.2611647,
+                    40.0231495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Derailer_Bicycle_Collective|Derailer Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.0016227,
+                    39.7236006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikes_Together|Bikes Together, formerly the Bike Depot]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.0047302,
+                    39.7331718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recycle_Bicycles|Recycle Bicycles]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.985465,
+                    39.75329199999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Fort_Collins_Bike_Coop|Fort Collins Bike Coop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.0769582,
+                    40.6075986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Colorado_Rocky_Mountain_School_Bike_Shop|Colorado Rocky Mountain School Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.2278493,
+                    39.4080994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Way_of_Compassion_Bike_Project|Way of Compassion Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.2094031,
+                    39.3955589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Pedal_Station|Pedal Station]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.862782,
+                    38.8413806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/BiCi_Co|BiCi Co]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.67795699999999,
+                    41.7571794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bradley_Street_Bicycle_Co-op|Bradley Street Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.91677539999999,
+                    41.3117811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Bike_New_Britain&action=edit&redlink=1|Bike New Britain]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7802399,
+                    41.6675927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Bike_New_London&action=edit&redlink=1|Bike New London]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.1018304,
+                    41.36564449999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Urban_Bike_Project_of_Wilmington|Urban Bike Project of Wilmington]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5421066,
+                    39.7486292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Newark_Bike_Project|Newark Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.7602812,
+                    39.6795551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Kickstand|The Kickstand]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.32482619999999,
+                    29.6516344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Tampa_Bay_Bicycle_Co-op|Tampa Bay Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4549305,
+                    27.9403091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Spokescouncil|Spokescouncil]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3789269,
+                    28.5383832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/OutSpokin|OutSpokin]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0554724,
+                    26.6167062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/St._Petersburg_Bike_Co-op|St. Petersburg Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.64190669999999,
+                    27.7760848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Suncoast_Community_Bikes|Suncoast Community Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4756567,
+                    27.2650018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Sopo_Bike_Coop|Sopo Bike Coop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35111739999999,
+                    33.7475547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Communicycle|Communicycle]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2384581,
+                    33.8056606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Starter_Bikes|Starter Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4037506,
+                    33.7760671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/South_Atlanta_Bike_Shop|South Atlanta Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.38181639999999,
+                    33.7187638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Savannah_Bike_Coop|Savannah Bike Coop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.093148,
+                    32.075183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Athens_Bicycle_Recycling_Program|Bike Athens Bicycle Recycling Program]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.39022760000002,
+                    33.9541674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Boise_Bicycle_Project|Boise Bicycle Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.2121224,
+                    43.6079981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Powerhouse|The Powerhouse]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.4492545,
+                    42.861233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/WBRP_Bike_Co-op|WBRP Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.00149329999999,
+                    40.4792388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikes%27N%27Roses|Bikes'N'Roses]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.74190399999999,
+                    41.9207359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Blackstone_Bicycle_Works|Blackstone Bicycle Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.59060040000001,
+                    41.7840877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=ChainLinks_Loyola&action=edit&redlink=1|ChainLinks Loyola]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.658744,
+                    41.998407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Chicago_Community_Bike_Project|The Chicago Community Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6896087,
+                    41.983279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/West_Town_Bikes|West Town Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.68934089999999,
+                    41.9028408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Working_Bikes|Working Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.685833,
+                    41.847228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recyclery_(Chicago,_IL,_USA)|The Recyclery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.673237,
+                    42.020288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Place|The Bike Place]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.46410499999999,
+                    41.3693171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Project_of_Urbana-Champaign|The Bike Project of Urbana-Champaign]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.20681669999999,
+                    40.1113222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bloomington_Community_Bike_Project|Bloomington Community Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.53701339999999,
+                    39.1682287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Columbus_Bicycle_Cooperative|Columbus Bicycle Cooperative]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.90722170000001,
+                    39.2109839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Freewheelin%27_Community_Bikes|Freewheelin' Community Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.149372,
+                    39.8172626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Pedal_%26_Park|Pedal & Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1663535,
+                    39.76972070000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Iowa_City_Bike_Library|The Iowa City Bike Library]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5295321,
+                    41.6467787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Des_Moines_Bike_Collective|Des Moines Bike Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6105087,
+                    41.5912753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/NewBo_Bike_Collective|NewBo Bike Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.66006809999999,
+                    41.9656689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Revolve_Community_Bike_Shop_(Kansas_City,_MO,_USA)|Revolve Community Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.57349359999999,
+                    39.0267541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Lawrence_Unchained_Bicycle_Co-op|Lawrence Unchained Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2267083,
+                    38.967115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Topeka_Community_Cycle_Project|Topeka Community Cycle Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.64426019999999,
+                    39.0667218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Walk_Wichita|Bike Walk Wichita]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.324113,
+                    37.685119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Falls_City_Community_BikeWorks|Falls City Community BikeWorks]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7396694,
+                    38.2325583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Brycc_Freewheel_Bike_Collective|Brycc Freewheel Bike Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7584557,
+                    38.2526647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Broke_Spoke_Community_Bike_Shop|Broke Spoke Community Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4922663,
+                    38.059812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.orghttps://frontyardbikes.com|Front Yard Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.1448278,
+                    30.4447254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Rubarb|Rubarb]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.0377323,
+                    29.9792379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Community_Bicycle_Center|Community Bicycle Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.45496460000001,
+                    43.48451499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Byke_Collective&action=edit&redlink=1|Byke Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6104847,
+                    39.3066339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Velocipede_Bike_Project|Velocipede Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6186487,
+                    39.3142727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Mount_Rainier_Bicycle_Cooperative|Mount Rainier Bicycle Cooperative]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.95835699999999,
+                    38.9388006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Renaissance_Community_Youth_Bike_Shop|Renaissance Community Youth Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9316408,
+                    38.963444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Rockville_Bike_Hub|Rockville Bike Hub]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.11732959999999,
+                    39.062538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/CommonWheels_Bicycle_Co-Op|CommonWheels Bicycle Co-Op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1296436,
+                    42.3529734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikes_not_Bombs|Bikes not Bombs]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10407479999999,
+                    42.3149157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Community_Spoke!|The Community Spoke!]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0550873,
+                    42.3368021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Broadway_Bicycle_School|Broadway Bicycle School]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1035003,
+                    42.37047219999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Dorchester_Bike_Kitchen|Dorchester Bike Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06513199999999,
+                    42.2832604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Quad_Bikes|Quad Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1232697,
+                    42.38109559999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Smith_College_Bicycle_Kitchen|Smith College Bicycle Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6403095,
+                    42.3162992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Somerville_Bike_Kitchen|Somerville Bike Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1185343,
+                    42.3936797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/RadSpringfield|RadSpringfield]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.59281399999999,
+                    42.104014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Worcester_Earn-A-Bike|Worcester Earn-A-Bike]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8134575,
+                    42.2556992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Armory_Bike_Union|Armory Bike Union]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4138329,
+                    42.2343625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Back_Alley_Bikes|Back Alley Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0615423,
+                    42.3462985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Boston_Square_Community_Bikes|Boston Square Community Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.64319890000002,
+                    42.94007269999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Broke_Spoke_Bike_Coop|Broke Spoke Bike Coop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6058764,
+                    44.7594266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Cycle-Re-Cycle|Cycle-Re-Cycle]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4545557,
+                    42.0873163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Common_Cycle|Common Cycle]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7528636,
+                    42.2818847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/East_Quad_Bike_Co-op|East Quad Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.73549009999999,
+                    42.2727345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Golden_Gate_Bike_Co-op|Golden Gate Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0457538,
+                    42.331427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Hub_of_Detroit|The Hub of Detroit]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0613375,
+                    42.3463623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Lansing_Bike_Coop|Lansing Bike Coop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52526209999999,
+                    42.7301394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/MSU_Bikes|MSU Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4786197,
+                    42.7280037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Share_a_Bike|Share a Bike]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4786197,
+                    42.7280037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Southwest_Rides|Southwest Rides]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1248904,
+                    42.3085758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Grease_Rag_Ride_%26_Wrench|Grease Rag Ride & Wrench]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2478553,
+                    44.9733179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Cave_Collective_(Duluth,_MN,_USA)|The Bike Cave Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.0749281,
+                    46.8025501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Re-Bike_Project|Re-Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.0067589,
+                    44.16301310000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Venture_North|Venture North]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.30434179999999,
+                    44.9809123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Tamales_y_bicletas|Tamales y bicletas]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.254111,
+                    44.951287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/816_Bicycle_Collective|816 Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.5779142,
+                    39.0709343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bicycle_Works|Bicycle Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.2093994,
+                    38.6027957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Revolve_Community_Bike_Shop_(Kansas_City,_MO,_USA)|Revolve Community Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.57349359999999,
+                    39.0267541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bozeman_Bike_Kitchen|Bozeman Bike Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.0330857,
+                    45.70048200000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Queen_City_Wheel_House|Queen City Wheel House]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0224523,
+                    46.6044748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Free_Cycles_Missoula|Free Cycles Missoula]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.0076172,
+                    46.8691476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Community_Bike_Project_Omaha|Community Bike Project Omaha]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9613732,
+                    41.2643738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Lincoln_Bike_Kitchen|Lincoln Bike Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7209599,
+                    40.7971215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Reno_Bike_Project|Reno Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.795569,
+                    39.500622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/QC_Bike_Collective|QC Bike Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4628068,
+                    42.9749722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=New_Brunswick_Bike_Exchange&action=edit&redlink=1|New Brunswick Bike Exchange]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.459203,
+                    40.4829764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_CycLAB|The CycLAB]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.6627164,
+                    40.3485017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Brick_City_Bike_Collective|Brick City Bike Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1781479,
+                    40.728895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Second_Life_Bikes|Second Life Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0142983,
+                    40.2149309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Chainbreaker_Collective|Chainbreaker Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.9713245,
+                    35.6639656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Works|The Bike Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.2759089,
+                    32.7752052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Esperanza_Bicycle_Safety_Education_Center|Esperanza Bicycle Safety Education Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.7003834,
+                    35.0832366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/New_York_Mechanical_Gardens_Bike_Coop|New York Mechanical Gardens Bike Coop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9427379,
+                    40.7112735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recycle-A-Bicycle|Recycle-A-Bicycle DUMBO training center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9670154,
+                    40.6833463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/GObike|GObike]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8572843,
+                    42.94414039999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/SUNY_Cortland_Community_Bike_Project|SUNY Cortland Community Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.187797,
+                    42.599001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recycle_Ithaca%27s_Bicycles|Recycle Ithaca's Bicycles]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5082519,
+                    42.4412149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Brookhaven_Bicycle_Co-op|Brookhaven Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.87874169999999,
+                    40.9131259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recycle-A-Bicycle|Recycle-A-Bicycle Youth Program]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9670154,
+                    40.6833463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Time%27s_Up!_Bike_Co-op|Time's Up! Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9645575,
+                    40.71089790000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/R_Community_Bikes|R Community Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6016669,
+                    43.1679067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikeatoga_Workshop|Bikeatoga Workshop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7869375,
+                    43.07655020000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Electric_City_Bike_Rescue|Electric City Bike Rescue]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9198926,
+                    42.7870036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Brookhaven_Bicycle_Co-op|Brookhaven Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.1575012,
+                    40.88146589999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Troy_Bike_Rescue|Troy Bike Rescue]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.68097139999999,
+                    42.7516127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Utica_Bike_Rescue|Utica Bike Rescue]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2340959,
+                    43.100774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Asheville_ReCyclery|Asheville ReCyclery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5504764,
+                    35.5917175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_ReCYCLEry|The ReCYCLEry]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0643511,
+                    35.9106757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/ReCyclery_(Charlotte,_NC,_USA)|ReCyclery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.825489,
+                    35.2324569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Durham_Bike_Co-op|Durham Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8938016,
+                    36.0152537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Pedal_Factory|The Pedal Factory]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4664439,
+                    35.6661794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Summit_Cycling_Center|Summit Cycling Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.52117980000001,
+                    41.07999780000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Athens_Bicycle_Co-operative|Athens Bicycle Co-operative]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1050887,
+                    39.3292085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Mobo_Bicycle_Co-op|Mobo Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5346917,
+                    39.1612139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Kitchen|Bike Kitchen]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5132756,
+                    39.1319279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Ohio_City_Bicycle_Co-op|Ohio City Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7024898,
+                    41.4893554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Cycleworks|Cycleworks]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.02452339999999,
+                    39.9591088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Third_Hand_Bicycle_Cooperative|Third Hand Bicycle Cooperative]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9785687,
+                    39.98590129999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/BicyclesforAll|BicyclesforAll]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1875561,
+                    39.7562229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Elyria_Bicycle_Education_Center|Elyria Bicycle Education Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.10764189999999,
+                    41.3634216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Oberlin_Bike_Co-op|Oberlin Bike Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.2179609,
+                    41.2959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Toledo_Bikes&action=edit&redlink=1|Toledo Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.545099,
+                    41.6508618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Farm|Bike Farm]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6643701,
+                    45.5360689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Bikes4Humanity&action=edit&redlink=1|Bikes4Humanity]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6303426,
+                    45.4966161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Community_Cycling_Center|Community Cycling Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6477029,
+                    45.55900399999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/City_Bikes_Repair_Shop|City Bikes Repair Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6461316,
+                    45.52205350000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/North_Portland_Bikeworks|North Portland Bikeworks]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.674188,
+                    45.5625379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Corvallis_Bicycle_Collective|Corvallis Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.26623,
+                    44.572384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Frans_Pauwels_Memorial_Community_Bicycle_Center|Frans Pauwels Memorial Community Bicycle Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8670454,
+                    45.4942838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Rosewood_Initiative|Rosewood Initiative]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4971583,
+                    45.5184586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Front_Street_Community_Bike_Works|Front Street Community Bike Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.21163,
+                    43.3726137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Waldport_Green_Bikes&action=edit&redlink=1|Waldport Green Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.0671391,
+                    44.42581939999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bethlehem_Bicycle_Cooperative|Bethlehem Bicycle Cooperative is a project of Car Free CAT-Coalition for Appropriate Transportation]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.412699,
+                    40.623453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Coatesville_Community_Bike_Works|Coatesville Community Bike Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.9139616,
+                    40.0069509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Free_Ride|Free Ride]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8985398,
+                    40.4502316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Neighborhood_Bike_Works|Neighborhood Bike Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.20097830000002,
+                    39.9626774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Salon_(Philadelphia,_PA,_USA)|The Bike Salon]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1668703,
+                    39.9264291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_%26_Build|Bike & Build]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.21962800000001,
+                    40.023506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recycle_Bicycle_Harrisburg|Recycle Bicycle Harrisburg]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8632891,
+                    40.26650100000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Common_Wheel|The Common Wheel]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3070317,
+                    40.043357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Community_Bike_Works|Community Bike Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.48649689999999,
+                    40.6025187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recycle-A-Bike|Recycle-A-Bike]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.44197249999999,
+                    41.8168661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Woonasquatucket_River_Watershed_Council|Woonasquatucket River Watershed Council - Red Shed Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.449248,
+                    41.8200131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Second_Chance_Bikes&action=edit&redlink=1|Second Chance Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.96825729999999,
+                    32.8734178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Hub_Cycle|Hub Cycle]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9283609,
+                    34.9397021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Geared_to_Empower&action=edit&redlink=1|Geared to Empower]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.70228709999999,
+                    43.54724059999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[|makeSPACE]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.865927,
+                    44.48991700000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Revolutions_Community_Bicycle_Shop|Revolutions Community Bicycle Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.99086419999999,
+                    35.1187938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/KickStand_Bicycle_Collective|KickStand Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.92208819999999,
+                    35.9859658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Austin_Yellow_Bike_Project|Austin Yellow Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6843619,
+                    30.2789144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Friendly_South_Dallas_WeCycle_Center|Bike Friendly South Dallas WeCycle Center]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7806236,
+                    32.763712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Cave_(San_Marcos,_TX,_USA)|The Bike Cave]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.9391442,
+                    29.8912253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/San_Antonio_Bicycle_Co-op|San Antonio Bicycle Co-op]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.47604,
+                    29.4200033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Aggie_Blue_Bikes|Aggie Blue Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8132583,
+                    41.7440977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Ogden_Bicycle_Collective|Ogden Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9555328,
+                    41.2145021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Provo_Bicycle_Collective|Provo Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6519092,
+                    40.2365776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Salt_Lake_City_Bicycle_Collective|Salt Lake City Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8943042,
+                    40.7205456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/UoU_Bicycle_Collective|UoU Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8943042,
+                    40.7205456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/St._George_Bicycle_Collective|St. George Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.5927751,
+                    37.1075618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=BF_Community_Bike_Project&action=edit&redlink=1|BF Community Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4484386,
+                    43.1311957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Recycle_Vermont|Bike Recycle Vermont]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2073595,
+                    44.4888628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Old_Spokes_Home|Old Spokes Home]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2073595,
+                    44.4888628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Freeride_Montpelier|Freeride Montpelier]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.57395460000001,
+                    44.2562356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Charlottesville_Community_Bikes|Charlottesville Community Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.4897122,
+                    38.0384137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Phoenix_Bikes|Phoenix Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.11215539999999,
+                    38.856241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.orghttp://ragandbonesrva.org/|Rags & Bones]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.4401668,
+                    37.5634263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/V%C3%A9loCity_Bicycle_Cooperative|V\u00e9loCity Bicycle Cooperative]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.05829849999999,
+                    38.8253342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Hub|The Hub Community Bike Cooperative]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4740563,
+                    48.7544208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Evergreen_Bike_Shop|The Evergreen Bike Shop]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9758327,
+                    47.0734439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Community_Build-a-Bike_Project|The Community Build-a-Bike Project]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8652666,
+                    47.0327861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Works_(Seattle)|Bike Works]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2857436,
+                    47.557674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bikery_(Seattle,_WA,_USA)|The Bikery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3095662,
+                    47.5947779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_Shack|The Bike Shack]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3008652,
+                    47.7027684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Recyclery_(Port_Townsend,_WA,_USA)|The Recyclery]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7742254,
+                    48.1143386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/2nd_Cycle|2nd Cycle]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4512028,
+                    47.2507457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Bike_Clark_County|Bike Clark County]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6716785,
+                    45.63367059999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Bike_House|The Bike House]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0276031,
+                    38.9416966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Gearin%27_Up_Bicycles|Gearin' Up Bicycles]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9776997,
+                    38.9279587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Positive_Spin|Positive Spin]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.95813629999999,
+                    39.6297247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Spokes4Folks|Spokes4Folks]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6326234,
+                    38.3498195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Sunshine_Community_Bikes|Sunshine Community Bikes]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8736156,
+                    46.5780822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Wheels_for_Winners|Wheels for Winners]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.34053879999999,
+                    43.0940234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/Milwaukee_Bicycle_Collective|Milwaukee Bicycle Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9512201,
+                    43.0363102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/w/index.php?title=Vulture_Space&action=edit&redlink=1|Vulture Space]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.9113898,
+                    43.038192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/bicycle-24-white.png",
+                    "color": "LimeGreen"
+                },
+                "description": "",
+                "name": "[[https://www.bikecollectives.org/wiki/The_Freewheel_Collective|The Freewheel Collective]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.3809543,
+                    43.0737083
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Alta-Lake-State-Park-3|Alta Lake State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.9395251,
+                    48.0282795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Battle-Ground-Lake-State-Park-63|Battle Ground Lake State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4907989,
+                    45.803864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Bay-View-State-Park-64|Bay View State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4787422,
+                    48.4886152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Beacon-Rock-State-Park-65|Beacon Rock State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.0240471,
+                    45.6279327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Belfair-State-Park-66|Belfair State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8778593,
+                    47.4289813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Birch-Bay-State-Park-1|Birch Bay State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7656836,
+                    48.9034055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Bridgeport-State-Park-71|Bridgeport State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.6163821,
+                    48.0125486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Brooks-Memorial-State-Park-73|Brooks Memorial State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.6658682,
+                    45.9502205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Camano-Island-State-Park-75|Camano Island State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4932435,
+                    48.1226072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Cape-Disappointment-State-Park-76|Cape Disappointment State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.0604319,
+                    46.28982240000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Columbia-Hills-State-Park-79|Columbia Hills State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.1055748,
+                    45.642663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Columbia-Plateau-State-Park-Trail-80|Columbia Plateau State Park Trail]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.357234,
+                    46.7245892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Conconully-State-Park-81|Conconully State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7513376,
+                    48.5565218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Curlew-Lake-State-Park-83|Curlew Lake State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.6607005,
+                    48.7189336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Daroga-State-Park-85|Daroga State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.2022753,
+                    47.7092379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Deception-Pass-State-Park-87|Deception Pass State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6443875,
+                    48.4061353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Fort-Casey-State-Park-95|Fort Casey State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6775001,
+                    48.16444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Fort-Ebey-State-Park-97|Fort Ebey State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7545574,
+                    48.21862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Fort-Flagler-State-Park-98|Fort Flagler State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7025048,
+                    48.09531620000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Fort-Townsend-State-Park-100|Fort Townsend State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.795671,
+                    48.0739451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Fort-Worden-State-Park-101|Fort Worden State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7694487,
+                    48.1391503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Ginkgo-Petrified-Forest-Wanapum-Recreati-12|Ginkgo Petrified Forest / Wanapum Recreational Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.9934804,
+                    46.9195556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Grayland-Beach-State-Park-103|Grayland Beach State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.0913511,
+                    46.7927682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Hope-Island-State-Park-Mason-County-105|Hope Island State Park - Mason County]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9285144,
+                    47.1870595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Hope-Island-State-Park-Skagit-County-106|Hope Island State Park - Skagit County]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5697851,
+                    48.3987503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Ike-Kinswa-State-Park-107|Ike Kinswa State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5301129,
+                    46.55415499999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Illahee-State-Park-108|Illahee State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5974215,
+                    47.59735879999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Jarrell-Cove-State-Park-111|Jarrell Cove State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.883435,
+                    47.2844399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Joemma-Beach-State-Park-112|Joemma Beach State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8056595,
+                    47.2260538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/KanaskatPalmer-State-Park-115|Kanaskat-Palmer State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8987929,
+                    47.31214300000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Kitsap-Memorial-State-Park-117|Kitsap Memorial State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6509929,
+                    47.817918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Lake-Chelan-State-Park-119|Lake Chelan State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.1970192,
+                    47.8731146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Lake-Easton-State-Park-120|Lake Easton State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.2000822,
+                    47.2541528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Lake-Sylvia-State-Park-122|Lake Sylvia State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.5904623,
+                    47.0005692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Larrabee-State-Park-124|Larrabee State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4681851,
+                    48.6605369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Lewis-Clark-State-Park-126|Lewis & Clark State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8144805,
+                    46.5218909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Lewis-Clark-Trail-State-Park-127|Lewis & Clark Trail State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.0725089,
+                    46.2884154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Manchester-State-Park-130|Manchester State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5503978,
+                    47.5761032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Maryhill-State-Park-131|Maryhill State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.8283232,
+                    45.68206379999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Millersylvania-State-Park-135|Millersylvania State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9120684,
+                    46.9158754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Moran-State-Park-136|Moran State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8240365,
+                    48.6649877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Mount-Spokane-State-Park-138|Mount Spokane State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1127217,
+                    47.9255017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Obstruction-Pass-State-Park-146|Obstruction Pass State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.827457,
+                    48.6052963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Palouse-Falls-State-Park-152|Palouse Falls State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.2273398,
+                    46.66376349999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Palouse-to-Cascades-State-Park-Trail-109|Palouse to Cascades State Park Trail]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1423154,
+                    47.0488917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Paradise-Point-State-Park-153|Paradise Point State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7043296,
+                    45.8653185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Pearrygin-Lake-State-Park-158|Pearrygin Lake State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.1558075,
+                    48.4947119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Penrose-Point-State-Park-159|Penrose Point State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.747827,
+                    47.2545764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Rainbow-Falls-State-Park-182|Rainbow Falls State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.234021,
+                    46.633816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Rasar-State-Park-181|Rasar State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9026299,
+                    48.5176861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Reed-Island-State-Park-180|Reed Island State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3058303,
+                    45.5531331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Scenic-Beach-State-Park-173|Scenic Beach State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.845522,
+                    47.6483161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Schafer-State-Park-172|Schafer State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.4663539,
+                    47.0976344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Seaquest-State-Park-171|Seaquest State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.817406,
+                    46.300537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Sequim-Bay-State-Park-170|Sequim Bay State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02901,
+                    48.0400577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Skagit-Island-State-Park-168|Skagit Island State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5789747,
+                    48.4135698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Spencer-Spit-State-Park-166|Spencer Spit State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8609479,
+                    48.53667799999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Twanoh-17|Twanoh]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9737775,
+                    47.3748829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/TwentyFive-Mile-Creek-16|Twenty-Five Mile Creek]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.2594742,
+                    47.99215359999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Twin-Harbors-15|Twin Harbors]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.1084928,
+                    46.8545249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Wallace-Falls-13|Wallace Falls]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.6717783,
+                    47.89924269999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "(note all WA state parks should allow hiker-bikers)",
+                "name": "[[https://parks.state.wa.us/Facilities/Facility/Details/Wenatchee-Confluence-11|Wenatchee Confluence]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.3270233,
+                    47.4604582
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+,name,city,state,search_string,url,geocode,lat,lon
+0,Ainsworth State Park,,Oregon,"Ainsworth State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=105,"(45.5959471, -122.050881)",45.5959471,-122.050881
+1,Bates State Park,,Oregon,"Bates State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=109,"(44.5925222, -118.5098397)",44.5925222,-118.5098397
+2,Beachside State Recreation Site,,Oregon,"Beachside State Recreation Site, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=84,"(44.3807059, -124.088757)",44.3807059,-124.088757
+3,Beverly Beach State Park,,Oregon,"Beverly Beach State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=164,"(44.7290267, -124.0556064)",44.7290267,-124.0556064
+4,Bullards Beach State Park,,Oregon,"Bullards Beach State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=50,"(43.1511886, -124.4092904)",43.1511886,-124.4092904
+5,Cape Blanco State Park,,Oregon,"Cape Blanco State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=44,"(42.8376089, -124.5639997)",42.8376089,-124.5639997
+6,Cape Lookout State Park,,Oregon,"Cape Lookout State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=134,"(45.3395467, -123.9929015)",45.3395467,-123.9929015
+7,Carl G. Washburne Memorial State Park,,Oregon,"Carl G. Washburne Memorial State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=85,"(44.1605604, -124.114529)",44.1605604,-124.114529
+8,Cascadia State Park,,Oregon,"Cascadia State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=150,"(44.3985314, -122.4775408)",44.3985314,-122.4775408
+9,Champoeg State Heritage Area,,Oregon,"Champoeg State Heritage Area, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=79,"(45.248265, -122.894153)",45.248265,-122.894153
+10,Clyde Holliday State Recreation Site,,Oregon,"Clyde Holliday State Recreation Site, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=8,"(44.4160869, -119.0887816)",44.4160869,-119.0887816
+11,Devil's Lake State Recreation Area,,Oregon,"Devil's Lake State Recreation Area, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=155,"(44.9710242, -124.012686)",44.9710242,-124.012686
+12,Farewell Bend State Recreation Area,,Oregon,"Farewell Bend State Recreation Area, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=4,"(44.306727, -117.225)",44.306727,-117.225
+13,Fort Stevens State Park,,Oregon,"Fort Stevens State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=129,"(46.1993713, -123.9790652)",46.1993713,-123.9790652
+14,Goose Lake State Recreation Area,,Oregon,"Goose Lake State Recreation Area, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=1,"(41.9932063, -120.3184488)",41.9932063,-120.3184488
+15,Harris Beach State Park,,Oregon,"Harris Beach State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=58,"(42.0674363, -124.3110792)",42.0674363,-124.3110792
+16,Humbug Mountain State Park,,Oregon,"Humbug Mountain State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=40,"(42.6787205, -124.4367708)",42.6787205,-124.4367708
+17,Jessie M. Honeyman Memorial State Park,,Oregon,"Jessie M. Honeyman Memorial State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=95,"(43.9290983, -124.1054538)",43.9290983,-124.1054538
+18,Milo McIver State Park,,Oregon,"Milo McIver State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=102,"(45.2986127, -122.3707251)",45.2986127,-122.3707251
+19,Nehalem Bay State Park,,Oregon,"Nehalem Bay State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=142,"(45.6859731, -123.9368151)",45.6859731,-123.9368151
+20,North Santiam State Recreation Area,,Oregon,"North Santiam State Recreation Area, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=64,"(44.7708289, -122.5648434)",44.7708289,-122.5648434
+21,Smith Rock State Park,,Oregon,"Smith Rock State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=36,"(44.3682459, -121.1405814)",44.3682459,-121.1405814
+22,South Beach State Park,,Oregon,"South Beach State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=149,"(44.60709749999999, -124.0620087)",44.60709749999999,-124.0620087
+23,Sunset Bay State Park,,Oregon,"Sunset Bay State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=70,"(43.3306137, -124.3730409)",43.3306137,-124.3730409
+24,Tumalo State Park,,Oregon,"Tumalo State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=34,"(44.1286879, -121.3274044)",44.1286879,-121.3274044
+25,Umpqua Lighthouse State Park,,Oregon,"Umpqua Lighthouse State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=83,"(43.6624752, -124.1936475)",43.6624752,-124.1936475
+26,Unity Lake State Recreation Site,,Oregon,"Unity Lake State Recreation Site, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=7,"(44.4934795, -118.1891235)",44.4934795,-118.1891235
+27,Wallowa Lake State Park,,Oregon,"Wallowa Lake State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=20,"(45.2820735, -117.2130919)",45.2820735,-117.2130919
+28,Willamette Mission State Park,,Oregon,"Willamette Mission State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=99,"(45.0802822, -123.0547107)",45.0802822,-123.0547107
+29,William M. Tugman State Park,,Oregon,"William M. Tugman State Park, Oregon",https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=69,"(43.6085425, -124.1771205)",43.6085425,-124.1771205

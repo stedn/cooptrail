@@ -4,6 +4,7 @@ title: 'What is Regenerative Travel?'
 description: 'Learn more about our attempts to make vanlife sustainable'
 image: assets/images/banner.jpg
 hide_image: true
+show_tile: false
 nav-menu: true
 ---
 

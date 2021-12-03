@@ -1,0 +1,1050 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=638|Anza Borrego Desert State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.3013266,
+                    33.100492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=540|Big Basin Redwoods State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2509729,
+                    37.1666329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=477|Bothe Napa Valley State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5374817,
+                    38.5429637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=487|Brannan Island State Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.696818,
+                    38.1102102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=519|Candlestick Point State Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3815252,
+                    37.7127107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=599|Carpinteria State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5242547,
+                    34.3930467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=454|Castle Crags State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3213725,
+                    41.1482103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=538|Castle Rock State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.1252175,
+                    37.22982349999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=557|Caswell Memorial State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.1874767,
+                    37.693819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=466|China Camp State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4910712,
+                    38.0012549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=473|Clear Lake State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8139383,
+                    39.0106312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=505|D  L  Bliss State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.1027489,
+                    38.97789909999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=414|Del Norte Coast Redwoods State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.1139454,
+                    41.6680924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=503|Donner Memorial State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.239782,
+                    39.3159261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=601|El Capit n State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.0245304,
+                    34.4595891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=604|Emma Wood  State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3398523,
+                    34.2932299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=606|Gaviota State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.229478,
+                    34.4733557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=421|Grizzly Creek Redwoods State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.9050925,
+                    40.4867464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=508|Grover Hot Springs State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.8438595,
+                    38.6960394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=531|Half Moon Bay State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4489731,
+                    37.4760761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=590|Hearst San Simeon State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.1166162,
+                    35.5926428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=561|Henry W  Coe State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4359759,
+                    37.1914002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=1179|Hollister Hills State Vehicular Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4250707,
+                    36.7746599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=425|Humboldt Redwoods State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.9776858,
+                    40.3146515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=413|Jedediah Smith Redwoods State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.1046827,
+                    41.7955087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=651|Lake Perris State Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1764723,
+                    33.8569506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=616|Leo Carrillo State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.9358055,
+                    34.0436171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=436|MacKerricher State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.7878557,
+                    39.4884502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=437|Manchester State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.7067125,
+                    38.9844288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=455|McArthur Burney Falls Memorial State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.6502456,
+                    41.0124498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=607|McGrath State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2596809,
+                    34.221001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=594|Morro Bay State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.8392652,
+                    35.3526935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=517|Mount Diablo State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9141528,
+                    37.8815913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=636|Mount San Jacinto State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.6791834,
+                    33.814463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=471|Mount Tamalpais State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5964705,
+                    37.9235439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=542|New Brighton State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.9382294,
+                    36.9784397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=1217|Ocotillo Wells State Vehicular Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.1675902,
+                    33.1559056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=570|Pfeiffer Big Sur State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.7790088,
+                    36.2475861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=630|Point Mugu State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.060935,
+                    34.08556240000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=539|Portola Redwoods State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2123153,
+                    37.2621372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=415|Prairie Creek Redwoods State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.0416172,
+                    41.4016041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=603|Refugio State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.0701354,
+                    34.4631659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=422|Richardson Grove State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.7925147,
+                    40.01925689999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=432|Russian Gulch State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.8061091,
+                    39.3325257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=453|Salt Point State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3317814,
+                    38.57648470000001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=639|Salton Sea State Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.9181159,
+                    33.5088385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=469|Samuel P  Taylor State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7213981,
+                    38.0242949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=650|Silverwood Lake State Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.3525307,
+                    34.2857189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=429|Sinkyone Wilderness State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.9396803,
+                    39.9202867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=451|Sonoma Coast State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1011733,
+                    38.4242109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=423|Standish Hickey State Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.7375985,
+                    39.8774712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=417|Sue meg State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.1552219,
+                    41.1364671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=544|Sunset State Beach]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8325358,
+                    36.8867526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=555|Turlock Lake State Recreation Area]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.5909176,
+                    37.6258955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "iconUrl": "/uploads/pictogram/campsite-24-white.png",
+                    "color": "DarkGray"
+                },
+                "description": "",
+                "name": "[[https://www.parks.ca.gov/?page_id=433|Van Damme State Park]]"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.7642849,
+                    39.2757228
+                ]
+            }
+        }
+    ]
+}

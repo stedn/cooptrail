@@ -1,27 +1,35 @@
 ---
 layout: post
-title: Resources
-description: 'More Information about the trail and becoming a member'
+title: 'Regenerative Travel Resources'
+description: 'maps and information to help travel better'
+image: assets/images/banner.jpg
+hide_image: true
 nav-menu: true
-show_tile: false
 ---
 
-<p>This page includes a few working documents that we use to keep track of all the information we've used to build the Trail Cooperative as well as information about how our organization is run.</p>
+{% assign mytiles = site.html_pages | where_exp: "item", "item.map == true" %}
 
+<p>Below you can find maps for resources that make regenrative travel easier, like hiker-biker camps, bike co-ops, and train routes.</p>
 
-<h2 style="text-align:center;">Resources for making the Trail Cooperative </h2>
-<p>Further reading to learn more about the information that went into designing and traveling the trail. </p>
-
-<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vTl8L1mdFHRruq3Qy9lrapASN-hb8wREw8-w-RfMFnlfRdAhiDjjMx_zB_dgnO9VDeJ03WWvPT4DEEn/pub?embedded=true"></iframe>
-<a href="https://docs.google.com/document/d/e/2PACX-1vTl8L1mdFHRruq3Qy9lrapASN-hb8wREw8-w-RfMFnlfRdAhiDjjMx_zB_dgnO9VDeJ03WWvPT4DEEn/pub" target="_blank">full screen</a>
-
-<h2 style="text-align:center;">Membership Principles</h2>
-<p>Guiding bylaws for the Trail Cooperative organization and how we work together. </p>
-
-<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vRoct1rQOucY4koYCLQ-wOtB2vqiZ5mOW4F3wzv65hw-QU0RL9Mrhfma9vlNZN79-a2LVERLt5dfXnj/pub?embedded=true"></iframe>
-<a href="https://docs.google.com/document/d/e/2PACX-1vRoct1rQOucY4koYCLQ-wOtB2vqiZ5mOW4F3wzv65hw-QU0RL9Mrhfma9vlNZN79-a2LVERLt5dfXnj/pub" target="_blank">full screen</a>
-
-<h2 style="text-align:center;">Membership Bank</h2>
-<p>Records of member contributions in time and talent. </p>
-<iframe width="100%" height="800px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYoPrdm5KUQvQHHUpmrSIII1EuVtu0KGARM5LhylOzTN8x0jefJx6RWQnyx1fD4trrjPGp_w8xr38o/pubhtml?widget=true"></iframe>
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYoPrdm5KUQvQHHUpmrSIII1EuVtu0KGARM5LhylOzTN8x0jefJx6RWQnyx1fD4trrjPGp_w8xr38o/pubhtml" target="_blank">full screen</a>
+<section id="two" class="spotlights">
+    <h2 style="margin-top:5%;text-align:center;">Resource Maps</h2>
+    {% for tile in mytiles %}
+    <section>
+        <a href="{{ tile.url  | relative_url }}" class="image">
+            <img src="{{ tile.image }}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>
+                        <a href="{{ tile.url  | relative_url }}">{{ tile.title }}</a>
+                    </h3>
+                </header>
+                <ul class="actions">
+                    <li><a href="{{ tile.url  | relative_url }}" class="button">Learn more</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    {% endfor %}
+</section>
