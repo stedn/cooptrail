@@ -4,3 +4,8 @@ _site/
 .jekyll-cache
 Gemfile.lock
 *.gem
+*.ipynb_checkpoints*
+code/maps.key
+code/*.gpx
+code/*.geojson
+code/*.csv

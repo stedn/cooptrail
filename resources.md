@@ -9,7 +9,7 @@ nav-menu: true
 
 {% assign mytiles = site.html_pages | where_exp: "item", "item.map == true" %}
 
-<p>Below you can find maps for resources that make regenrative travel easier, like hiker-biker camps, bike co-ops, and train routes.</p>
+<p>Below you can find maps for resources that make regenrative travel easier, like hiker-biker camps, bike co-ops, and HikeToBike routes.</p>
 
 <section id="two" class="spotlights">
     <h2 style="margin-top:5%;text-align:center;">Resource Maps</h2>
