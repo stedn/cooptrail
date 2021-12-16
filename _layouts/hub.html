@@ -109,6 +109,9 @@ fetch("{{ page.spreadsheet_url }}")
                 to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
             }
             document.getElementById('blurbholder').innerHTML = to_add;
+            const script = document.createElement('script')
+            script.src = 'assets/js/pa.js'
+            document.head.append(script)
         } else{
             for (var i  = 0; i < data.length; i += 1){
                 var newElement = document.createElement("section");
@@ -137,6 +140,7 @@ fetch("{{ page.spreadsheet_url }}")
         }
     })
 </script>
+<!-- <script src="{{ "assets/js/pa.js" | absolute_url }}"></script> -->
 </body>
 
 </html>
