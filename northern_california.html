@@ -428,6 +428,9 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                 to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
             }
             document.getElementById('blurbholder').innerHTML = to_add;
+            const script = document.createElement('script')
+            script.src = 'assets/js/pa.js'
+            document.head.append(script)
         } else{
             for (var i  = 0; i < data.length; i += 1){
                 var newElement = document.createElement("section");
@@ -456,6 +459,7 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
         }
     })
 </script>
+<!-- <script src="/assets/js/pa.js"></script> -->
 </body>
 
 </html>
