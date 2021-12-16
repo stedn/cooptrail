@@ -112,6 +112,9 @@ fetch("{{ page.spreadsheet_url }}")
             const script = document.createElement('script')
             script.src = 'assets/js/pa.js'
             document.head.append(script)
+            const script2 = document.createElement('script')
+            script2.src = '//www.instagram.com/embed.js'
+            document.head.append(script2)
         } else{
             for (var i  = 0; i < data.length; i += 1){
                 var newElement = document.createElement("section");
