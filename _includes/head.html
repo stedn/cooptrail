@@ -22,9 +22,7 @@
     <meta property="twitter:title" content="{% if page.title %}{{ page.title | escape }} | {{ site.title }}{% else %}{{ site.title | escape }}{% endif %}">
     <meta property="twitter:site" content="{{ site.title }}">
     <meta property="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-    {% if site.twitter_username %}
-      <meta property="twitter:creator" content="@TheCoopTrail">
-    {% endif %}
+    <meta property="twitter:creator" content="@TrailCoop">
     <meta property="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://cooptrail.org/assets/images/bg_map.png{% endif %}">
     <style>
         .myicon {
