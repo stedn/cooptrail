@@ -12,6 +12,11 @@ coop_url: https://lacooplab.com/
 
 One of the hugely important parts of strengthening the solidarity economy is building resources for learning about and helping start new cooperatives.  As part of out visit to LA we spoke with Citlalli Velasquez of the <a href="https://lacooplab.com/">LA Co-op Lab</a> about the work they are doing to jumpstart the cooperative economy in Los Angeles.
 
+<br/>
+<br/>
+<br/>
+
+
 > The LA Co-op Lab is a collective that was established in 2015 to explore & invent ways to build L.A.'s capacity for worker ownership as a pathway toward a more equitable and democratic economy.  Their aim is to advance worker ownership as one way to push back against inequality, gentrification, and the gig economy by helping people who are often excluded from good jobs to collectively create their own and meet community needs.
 
 
