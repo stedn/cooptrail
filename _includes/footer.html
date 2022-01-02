@@ -4,7 +4,30 @@
 		<section>
 			<h2>Get in touch</h2>
 			<p>If you'd like your organization added to the trail or if you'd like to curate a portion of trail yourself, send us a message and we'll get in touch.</p>
-			<iframe name="hidden_iframe" id="hidden_iframe" style="display: none;" onload="if(submitted)  {document.forms['myForm'].style.display='none'; document.getElementById('myThanks').style.display='block'; }"></iframe>
+			<ul style="text-align:center" class="icons">
+				{% if site.twitter_url %}
+				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.youtube_url %}
+				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
+				{% endif %}
+				{% if site.tiktok_url %}
+				<li><a href="{{ site.tiktok_url }}" class="icon alt " target="_blank"><img class="myicon" style="border-radius:100%;height:2em;padding:8px;transform: translate(0px, 11px);" src="/assets/css/tiktok.png" /></a></li>
+				{% endif %}
+				{% if site.facebook_url %}
+				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				{% endif %}
+				{% if site.instagram_url %}
+				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				{% endif %}
+				{% if site.slack_url %}
+				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+				{% endif %}
+				{% if site.linkedin_url %}
+				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+			</ul>
+			<!-- <iframe name="hidden_iframe" id="hidden_iframe" style="display: none;" onload="if(submitted)  {document.forms['myForm'].style.display='none'; document.getElementById('myThanks').style.display='block'; }"></iframe>
 			<form id="myForm" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScR9nymDVWWK2Eza_kwH8jV54_elV8oNJhwjPR45GThJ80ebA/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
 				<div class="field half first">
 					<label for="name">Name</label>
@@ -23,7 +46,8 @@
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
-			<div class="box" id="myThanks" style="display:none;height:400px;"><p><i>Thanks for your message! We'll get back to you right away.</i></p></div>
+			<div class="box" id="myThanks" style="display:none;height:400px;"><p><i>Thanks for your message! We'll get back to you right away.</i></p></div> -->
+
 		</section>
 		<section class="split">
 			<section>
@@ -83,29 +107,7 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<ul class="icons">
-				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.youtube_url %}
-				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
-				{% endif %}
-				{% if site.tiktok_url %}
-				<li><a href="{{ site.tiktok_url }}" class="icon alt " target="_blank"><img class="myicon" style="border-radius:100%;height:2em;padding:8px;transform: translate(0px, 11px);" src="/assets/css/tiktok.png" /></a></li>
-				{% endif %}
-				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if site.slack_url %}
-				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
-				{% endif %}
-				{% if site.linkedin_url %}
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				{% endif %}
-			</ul>
+
 			<ul class="copyright">
 				<li>All Content Freely Usable under CC-BY-SA</li>
 				<li>Site Template: <a href="https://html5up.net" target="_blank">HTML5 UP</a> + <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>

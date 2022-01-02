@@ -2,7 +2,7 @@
 layout: post
 title: "The Trail Cooperative's Mission"
 description: "travel, don't pollute, do good"
-image: assets/images/us.jpg
+image: assets/images/banner.jpg
 hide_image: true
 nav-menu: true
 ---

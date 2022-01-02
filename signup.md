@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Join the community mailing list
 description:
 nav-menu: false

@@ -1,8 +1,8 @@
 ---
-title: Co-op Spotlights
+title: Co-op Video Interviews
 layout: page
 description: 'Check out our documentary series about the co-ops along the trail.'
-image: assets/images/cooptraillogo.png
+image: assets/images/pacific_northwest/frontstreet0.jpg
 nav-menu: true
 hide_image: true
 ---
@@ -13,9 +13,7 @@ hide_image: true
 
 <section id="one">
     <div class="inner">
-        <header class="major">
-            <h1>Co-Op Spotlights</h1>
-        </header>
+
         <p>Below we have some highlights of the cooperative profiles that we've taken.  Browse the videos below or check out all our spotlights on our Stories Page.  And don't forget to checkout the Trail Map if you'd like to find your way along the Trail.</p>
 	</div>
 </section>

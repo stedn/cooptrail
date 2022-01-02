@@ -5,13 +5,13 @@ description: Routes to help you on your journey to a regenerative world
 nav-menu: true
 show_tile: true
 hide_image: true
-image: assets/images/topmap.png
+image: assets/images/topmapnew.png
 ---
 
 {% assign mytiles = site.html_pages | where_exp: "item", "item.layout == 'hub'" %}
 
 
-<p>We're building the Trail Cooperative around regional hubs to help <a href="mission.html">foster a community</a> dedicated to <a href="regenerative-travel.html">regenerative travel</a>. Click on a region for routes and resources on regenerative travel in that area.  To view a specific resource nationwide, check out our <a href="resources.html">resource maps page</a>. </p>
+<p>We're building the Trail Cooperative around regional hubs to help <a href="story.html">foster a community</a> dedicated to <a href="regenerative-travel.html">regenerative travel</a>. Click on a region for routes and resources on regenerative travel in that area.  To view a specific resource nationwide, check out our <a href="resources.html">resource maps page</a>. </p>
 
 <div class="iframeholder"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/trail-cooperative-overview_684823?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe></div><p><a href="//umap.openstreetmap.fr/en/map/trail-cooperative-overview_684823">See full screen</a></p>
 

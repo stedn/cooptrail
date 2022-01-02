@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: false
 ---
 
-We welcome you to join us in [our mission](mission.html) to travel better and support a transition to a regenerative and cooperative economy.  There are many ways to get involved with our community. Participation is entirely <strong>free</strong> and <strong>voluntary</strong>.
+We welcome you to join us in [our mission](story.html) to travel better and support a transition to a regenerative and cooperative economy.  There are many ways to get involved with our community. Participation is entirely <strong>free</strong> and <strong>voluntary</strong>.
 
 The easiest way to contribute in these efforts is to join an outdoor group in your area and promote local travel to beautiful and adventurous destinations nearby. Check out [our map](map.html) to find outdoor groups that are supportive of our mission near you.  If you have any organizations or trails that you'd like to document in your area, add them to our map by filling out the form on the region page!
 
