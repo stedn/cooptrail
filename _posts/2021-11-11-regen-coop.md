@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LA Co-op Lab
-description: Los Angeles, CA
+title: Regenerative Landscaping Alliance
+description: Santa Barbara, CA
 post_type: coop
 highlight: true
 image: assets/images/pacific_northwest/lacooplab.png

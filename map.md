@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Region Map
-description: Routes to help you on your journey to a regenerative world
+title: Routes
+description: to help you on your journey to a regenerative world
 nav-menu: true
 show_tile: true
 hide_image: true

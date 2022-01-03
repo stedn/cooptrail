@@ -2,8 +2,6 @@
 layout: post
 title: Port Orford Food Co-op
 description: Port Orford, OR
-parent: Pacific Northwest
-parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
 highlight: false
 hide_image: true

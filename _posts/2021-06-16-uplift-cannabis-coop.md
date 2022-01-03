@@ -2,8 +2,6 @@
 layout: post
 title: Uplift Cannabis Co-op
 description: Petrolia, CA
-parent: Pacific Northwest
-parent_url: /2021/04/20/pacific-northwest.html
 post_type: coop
 highlight: true
 hide_image: true

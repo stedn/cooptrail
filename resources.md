@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regenerative Travel Resources'
-description: 'maps and information to help travel better'
+description: 'local resources and information to help travel better'
 image: assets/images/bike-coop-map.png
 hide_image: true
 nav-menu: true
