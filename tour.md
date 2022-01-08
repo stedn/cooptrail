@@ -10,30 +10,24 @@ image: assets/images/topmapnew.png
 
 <script src="//www.instagram.com/embed.js"></script>
 <script src="assets/js/pa.js"></script>
-
- <div id="mainmap" class="iframeholder image left"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/trail-cooperative_684817?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
-    <p><a href="//umap.openstreetmap.fr/en/map/trail-cooperative_684817">Full Screen</a>
-    <a id="directions" style="display:none;" href="#">Directions</a>
+<p>In the summer of 2021, the Trail Cooperative launched with a one year US tour by Claire and Will Stedden.  These are their travel logs on the first tour. </p>
+ <div id="mainmap" class="iframeholder image left"><iframe width="100%" style="height: 425px;" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/inaugural-tour_684817?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+    <p><a href="//umap.openstreetmap.fr/en/map/inaugural-tour_684817">Full Screen</a>
 </p>
 </div>
 
-<p>In the summer of 2021, the Trail Cooperative launched with a one year US tour by Claire and Will Stedden.  These are their travel logs on the first tour. </p>
 
-
-
-insert table of contents here :)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+* [The trip begins, Northern California](#The-trip-begins,-Northern-California)
+* [Entering Oregon](#Entering-Oregon)
+* [Western Washington](#Western-Washington)
+* [Return through Oregon](#Return-through-Oregon)
+* [The crazy bike rebuild in Coos Bay](#The-crazy-bike-rebuild-in-Coos-Bay)
+* [Back to Mendocino without electric power](#Back-to-Mendocino-without-electric-power)
+* [The great reset](#The-great-reset)
+* [The Big Sur Coastline](#The-Big-Sur-Coastline)
+* [The Southern California vibes](#The-Southern-California-vibes)
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<hr>
 
 
 
@@ -58,7 +52,7 @@ For our trip, we didn’t start out with the intention of a long distance bike t
 
 So the idea for solar powered bicycles evolved naturally from this challenge.  We started by thinking about just using standard (non-electric) bikes, but we realized it just wouldn’t be possible to carry the food and gear we needed for the backpacking trips we wanted to do.  We next contemplated ebikes, but quickly realized that it would be impossible to keep them charged on the distances we were going between towns. And nothing is worse than riding a heavy ebike after it's out of power.  So this was when we came up with the solar charging ebike idea.  Fortunately, many many people have already worked on these ideas for several years so we had lots of great ideas to start from.
 
-So we set to work building our tandem electric bike and an accompanying trailer.  For this first project, Will wrote <a href=”https://bonkerfield.org/2021/01/ebike-solar-trailer/”>a detailed account</a> on his personal blog for those interested to learn more.
+So we set to work building our tandem electric bike and an accompanying trailer.  For this first project, Will wrote <a href="https://bonkerfield.org/2021/01/ebike-solar-trailer/">a detailed account</a> on his personal blog for those interested to learn more.
 
 Here Claire gave us a walk-through of the design of the initial prototype.
 
@@ -66,12 +60,12 @@ Here Claire gave us a walk-through of the design of the initial prototype.
 <iframe width="800" height="450" src="https://www.youtube.com/embed/QKrwU3Dy7g8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-With tandem bike and double trailer, the rig ended up being extremely long! We knew from the beginning that our trip would be full of trial-and-error, and that we would need to work out redesigns along the way.
+With the tandem bike and double trailer, the rig ended up being extremely long! We knew from the beginning that our trip would be full of trial-and-error, and that we would need to work out redesigns along the way.
 
 
 
 ## A test trip between Point Arena and Mendocino, California
-<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+<!-- <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/jbHvYcoiBmFq2K1d9"
   data-title="Point Arena"
   data-description="9 new items added to shared album">
@@ -84,16 +78,20 @@ With tandem bike and double trailer, the rig ended up being extremely long! We k
   <object data="https://lh3.googleusercontent.com/lu83905I9EDPCP2Th-VgnzrkLH4YGQZEmlQK6qz3wXwtgiuaNxu1AoAKmj4O-JEr3SMMuMIS0Nv7cAbDQsLa3KfN8DFV6f0bjz5ZmhUefkQLzixYhntQvtW6pjZvzmmZs-iW4VziFBk=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/QlrL9vlOLtd_48EukhFTabHWoT0cfkJKCbQVj5qSw2zJ5LQ7yynvOJrP43EP3KoSpj_wTVIF5wEhs7HPpZMxskyF4PTRodEMR-XDnMIR6eZz0uKWpMv3tU-qw21KSD1atrpJb9sI9bs=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Y5yDXYqTVtDf0HURAC_nc70USfEXM_lysRsL66rjuKz5pYSjqhDkjDx2_c2yonjfzPsui56jJJST_tC7g8VdvvOjsbpj80JvyH1-laX8rl0ELAEGynECbHuVHTk30SgxPhso84da3Qs=w1920-h1080"></object>
-</div>
+</div> -->
+After a few tests around the block, we decided to test this crazy machine on a 3 night backpacking trip at a hot springs trail about 50 miles away.
 
 After a 50 mile ride along the bluffs of the Northern California coast from Mendocino to Point Arena complete with rolling hills and ocean spray, we turned inland at Point Arena to reach the hike up the Garcia River.
 
 We found <a href="https://www.waymarking.com/waymarks/WM29GE">directions</a> along the Garcia River to the remote hot springs.  The hike up was a long but beautiful 9 miles and filled with more than 50 refreshing river crossings.  Very close to the springs we scrambled the rocks to reach the relaxing end.
 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@trailcooperative/video/6954101772310826246" data-video-id="6954101772310826246" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@trailcooperative" href="https://www.tiktok.com/@trailcooperative">@trailcooperative</a> <p>Trip to the Point Arena Hot Springs. Refueling at the Arena Market Co-op. <a title="backpacking" target="_blank" href="https://www.tiktok.com/tag/backpacking">##backpacking</a> <a title="cooperative" target="_blank" href="https://www.tiktok.com/tag/cooperative">##cooperative</a> <a title="hotsprings" target="_blank" href="https://www.tiktok.com/tag/hotsprings">##hotsprings</a>  <a title="vanlife" target="_blank" href="https://www.tiktok.com/tag/vanlife">##vanlife</a></p> <a target="_blank" title="♬ original sound - Trail Cooperative" href="https://www.tiktok.com/music/original-sound-6954101726765255429">♬ original sound - Trail Cooperative</a> </section> </blockquote>
 
 We stayed close to springs overnight and returned to the trailhead the next day.  We stayed overnight in the forest near the trailhead, and rode back down into Point Arena.  We restocked on supplies for the ride back and grabbed our breakfast and coffee at the Arena Market and Cafe.
 
-We rode the same path in reverse back to the charming village of Mendocino.  Mendocino has a number of worker co-ops including the Artists' Co-op Gallery and Corners of the Mouth Natural Food Store.  During our time in this area, we interviewed the worker and artist-owners of these cooperatives for our documentary series.
+We rode the same path in reverse back to our house near the charming little village of Mendocino.  Mendocino is a really beautiful place and so full of history&mdash;especially history about cooperatives.  Living nearby, we learned so much about the solidarity economy from neighbors as well as the <a href="http://www.grassroots-institute.org/">Grassroots Institute</a>
+
+Mendocino has a number of worker co-ops including the <a href="https://www.artcoopmendocino.com/">Artists' Co-op Gallery</a> and <a href="http://www.cornersofthemouth.com/">Corners of the Mouth Natural Food Store</a>.  During our time in this area, we interviewed the worker and artist-owners of these cooperatives for our documentary series.
 <div style="text-align:center">
 <iframe width="400" height="450" src="https://www.youtube.com/embed/a_PyTgyrW7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="400" height="450" src="https://www.youtube.com/embed/zBjQfAgq7Ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -102,9 +100,12 @@ We rode the same path in reverse back to the charming village of Mendocino.  Men
 
 #### Rebuilding the tandem with lighter materials
 
-One thing we really learned from this first trip was that our equipment was very, very heavy.  Before leaving, we undertook our first major rebuild of switching to lightweight solar panels to try to alleviate some of our weight burden.
-
-We were able to find some relatively inexpensive but extremely lightweight solar panels from ebay.  Each panel was 130 Watts, and they weighed a mere 4 lbs a piece.  This was in contrast to our original hand-me-down panels which were each more than 20 lbs.  This rebuild also made it so that we could afford to use less material in our mounting device, saving even more weight from the final design. An added bonus was that for the same size, we were also getting more than 25% more
+Our first trip taught us that our equipment was very, very heavy.  Before leaving, we undertook our first major rebuild of switching to lightweight solar panels to try to alleviate some of our weight burden.
+<div style="text-align:center">
+<img style="width:20%;" src="https://lh3.googleusercontent.com/pw/AM-JKLWiUqvMEZbbqUFZAq15uC9TbugncrhTiYesDdVFPfVX4EtNjRKujVarxwsdUvI4uOeAg5YrZY9MTg9KrMqLpCEAw8rVnV72v2RhPhsNw8VOAYpncok2iPOsyvRhm0M54bzbZ6d2530uLqrPFNMRvxhzWw=w504-h671-no">
+<img style="width:20%;" src="https://lh3.googleusercontent.com/pw/AM-JKLV3nhw5Rad-rQhcef3H4yorY-0kxANs95ogSQnVcu9okpdAYEOUJ1EWkZzn5_P3JqzbeG1Gufj6-CpBxFW9auHO04cQMiN0XQ-_cK4IcC3eA_WMOhjnlXeRUA6f-fv47Nb3cs5JfSEYT2D6Br2tidVtaQ=w504-h671-no">
+</div>
+We were able to find some relatively inexpensive but extremely lightweight solar panels from ebay.  Each panel was 130 Watts, and they weighed a mere 4 lbs a piece.  This was in contrast to our original hand-me-down panels which were each more than 20 lbs.  This rebuild also made it so that we could afford to use less material in our mounting device, saving even more weight from the final design. An added bonus was that for about the same size, we were also getting more than 40% more power from the new panels, which would greatly reduce our recharge time.
 
 All-in-all, this turned out to be only the first redesign of many to come, but by this point time was running out to begin our tour…
 # The trip begins, Northern California
@@ -168,17 +169,37 @@ From Ferndale, there is a killer climb from up over the North end of the King Ra
 
 At this point, when we biked down “the wall” was when we started to get into our real trouble. A combination of rough road, heavy tandem bike, and inadequate tires made for frequent flats.  After about the third or fourth we started to have trouble patching. Following the road along the coast was absolutely gorgeous but also stressful as we noticed that we had to stop to inflate more frequently. At the turn up the Mattole Valley, we finally just had to stop, expecting that perhaps we’d need to wait it out in a camp on the beautiful (but windy) beach before walking into Petrolia for a bailout the next morning.  Fortunately, a friendly surfer stopped on his way up from the beach and offered to grab a new tire for us from his place.  This held and kept us moving up into the Mattole valley. As dusk was settling, we turned the corner to find the houses of the tiny town of Petrolia peek up from among the hills as we wound our way inland.
 
-We were planning to stay with a host Drew from the Uplift Cannabis Co-op so that we could interview him about his cooperative in the morning.  We reached our host after dark, but he was so kind that he made Claire pancakes.  We woke up in the morning and interviewed him, learning so much about their work with producer cooperatives and growing cannabis in this beautiful place.
+<div style="text-align:center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@trailcooperative/video/6974982780740504838" data-video-id="6974982780740504838" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@trailcooperative" href="https://www.tiktok.com/@trailcooperative">@trailcooperative</a> <p>We rode our tandem on &#34;the Wildcat&#34; to visit the Uplift Cannabis Co-op. A <a title="burly" target="_blank" href="https://www.tiktok.com/tag/burly">##burly</a> road but well worth it. <a title="cycling" target="_blank" href="https://www.tiktok.com/tag/cycling">##cycling</a> <a title="lostcoast" target="_blank" href="https://www.tiktok.com/tag/lostcoast">##lostcoast</a> <a title="steep" target="_blank" href="https://www.tiktok.com/tag/steep">##steep</a></p> <a target="_blank" title="♬ original sound - Trail Cooperative" href="https://www.tiktok.com/music/original-sound-6974982591237720837">♬ original sound - Trail Cooperative</a> </section> </blockquote>
+</div>
+
+We were planning to stay with a host Drew from the Uplift Cannabis Co-op so that we could interview him about his cooperative in the morning.  We reached him after dark, but he was so kind that he even got up to make Claire pancakes.  We woke up in the morning and interviewed him, learning so much about their work with producer cooperatives and growing cannabis in this beautiful place.
 
 <div style="text-align:center">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QjmAkPHDJUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<br/>
 
-Immediately after interviewing Drew, we .  We met with the town bike mechanic, Cedar, who showed us into his workshop in between rounds of milking the cows.  We bought a few extra tubes from him for the road, and off we went back up and over the Wildcat.  But this time, after riding the Wildcat ride we continued on all the way to Arcata, for our longest ride thus far (70 miles). We made it to Hoopla farm to stay with our Warmshowers hosts, Evelyn and Wallace.
+We learned so much from interviewing Drew.  He taught us about the history of the rural sharing economy, social structure of the Mattole Valley and cannabis farming.  It was fascinating to learn about the way the local growers were banding together to fight back against the major industrial players entering the cannabis space.  It was also fascinating to learn about the specific ecological factors that made the farms of the Mattole Valley such a unique place to grow cannabis.
 
+Immediately after interviewing Drew, we had to set out to make it back over the range and into Arcata.  We stopped before leaving Petrolia to meet the town bike mechanic, Cedar, who showed us into his workshop in between rounds of milking the cows.  We bought a few extra tubes from him for the road, and off we went back up and over the Wildcat.  But this time, after riding over the range, we continued on all the way to Arcata, for our longest ride thus far (70 miles). We made it to Hoopla farm to stay with our Warmshowers hosts, Evelyn and Wallace on their small farm full of free range chickens, veggies and golden berries (like small sweet tomatoes). They shared their experience of raising chickens and communal living on their property (there is a tiny house in the back of the main house).
 
-## Visiting Cooperatives in Arcata CA
+<div style="text-align:center">
+<img style="width:50%;" src="https://lh3.googleusercontent.com/pw/AM-JKLWFqnUDT7PIWPHI2ZMgl7abcZn1cTJOUP8GYuGNxMAgGi8rQ0cW54GaUwRxINYtB_ucFubJ_SKxsbjI55VmUpNnF2Xt6Q2xF4_vKJxwyeryNbTE1p0iqZyzq4Z2vf3TBs4HeufTxqLN-X8Ikcx7LSQ0Vg=w1193-h671-no">
+</div>
+
+### Visiting Cooperatives in Arcata CA
+We spent several days in Arcata to explore the place, relax for a while, edit some videos, teach an online course, and interview one of the coolest cooperatives that we've ever had the pleasure of meeting.  We were so lucky to get to meet the folks who started Full Cycle Compost, a cooperative company that offers curbside compost pickup (on their bike), which goes to make compost for community gardens and farms.  We filmed another interview with them on their work and how forming as a cooperative is
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e5RHbz8UzU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+During our time in Arcata, we also made the decision to convert our trailer from two buggies down to one. We realized we could just stack our solar panels while riding even though that would halve the amount of power we were getting while on-the-go.  Overall, that wasn't too big of a deal because we were still spending plenty of time taking breaks where we could lay both panels out.   We sent a small box of things back to our family for safekeeping, and dropped our trailer off at <a href="https://www.arcatamooncycles.com/services">Moon Cycle</a>.  It was much better only riding with one trailer and made things a lot easier.
+
+<div style="text-align:center">
+<img style="width:40%;" src="https://lh3.googleusercontent.com/pw/AM-JKLX5C_Qo0DpobzAckjmP_9b6rj5MjBAvQLI0MqwUGEmop-baKXgXnOQPqw5SEVryT8FvlmRJTx-gKztWP-3C0AVuBwAIir2BVAccs-KgcmoygZMmgcGWVknIBf4DoKO9FvXI4dvTqutLjt6hoEPGQl8MxA=w1193-h671-no">
+</div>
+
 
 ## Arcata to CA-OR border
 <div class="pa-carousel-widget" style="width:640px; height:480px; display:none;"
@@ -205,6 +226,10 @@ The next leg of the trip returns to 101 for a somewhat frustrating but necessary
 On the next day, we crossed the California Oregon border. Just past the first major town, Brookings, you'll find the Hastings Beach State Park, another great hiker/biker camp.  Alternatively, it is said that despite Oregon beaches being "free to camp," Brookings is one of the only major cities to allow beach camping so near to it.  If you are so inclined, a tent on the sandy beaches around Brookings could be an interesting way to start a tour into Oregon.
 
 
+It was at this part of the trip that we finally started to feel like we were getting things under control.  Our rig was much lighter and we were traveling fast enough to start visiting places.  We made this short video to explain how we were getting around.
+<div style="text-align:center">
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@trailcooperative/video/6990150108578909446" data-video-id="6990150108578909446" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@trailcooperative" href="https://www.tiktok.com/@trailcooperative">@trailcooperative</a> <p>check out our <a title="solarpower" target="_blank" href="https://www.tiktok.com/tag/solarpower">##solarpower</a> tandem <a title="ebike" target="_blank" href="https://www.tiktok.com/tag/ebike">##ebike</a>. we want to do <a title="vanlife" target="_blank" href="https://www.tiktok.com/tag/vanlife">##vanlife</a> with a lower <a title="carbonfootprint" target="_blank" href="https://www.tiktok.com/tag/carbonfootprint">##carbonfootprint</a>. plus we love <a title="bicycles" target="_blank" href="https://www.tiktok.com/tag/bicycles">##bicycles</a>. <a title="sustainabletravel" target="_blank" href="https://www.tiktok.com/tag/sustainabletravel">##sustainabletravel</a> <a title="slowtravel" target="_blank" href="https://www.tiktok.com/tag/slowtravel">##slowtravel</a></p> <a target="_blank" title="♬ original sound - Trail Cooperative" href="https://www.tiktok.com/music/original-sound-6990149960234846981">♬ original sound - Trail Cooperative</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+</div>
 
 
 # Entering Oregon
@@ -517,7 +542,7 @@ Selling everything, staying with friends in SF, rebuilding our ebikes
 
 
 
-# Onward to Southern California
+# The Big Sur Coastline
 
 An important difference for planning once south of SF is that the hiker/biker (h/b) sites are limited to 1 or 2 days, some have closed and the rate doubles to $10 a night. North Beach and Lompoc no longer have a h/b. I heard if you call ahead, Lompoc may let you stay. Gaviota was closed for the season starting 10-1.  Half moon bay and New Brighton are 1 day along with a few more. Also there are also gaps in the state parks that are filled by county or forest service camps (Kirk creek along Big Sur (a must see for the costal views and stars, but the water is sold for $5 a gallon or you can filter from the creek) and Costal Dunes RV park and campground in Oceana).  It may be worth getting a map that lists them all. Also, if you go later in the year, some of the parks partially or fully close after 10-31. Manrita closes and Sunset Beach moves the h/b site.
 
@@ -554,6 +579,8 @@ The ride from here to Refugio State Beach is long but nice, huge shoulders and o
 **Also it is so crazy to see the organic weed control done at scale, black tarps cover field after field. Its shiny in the sun and looks surreal. I hope the can re-use it year to year. No solution is ever as good as it seems. All the farm workers were out in the fields, it looked very hot.
 
 Happened upon a strawberry stand (??) Along hwy 1 outside of Callender that was the best I've ever had. They pick them daily when they are ripe, not early like needs to be done when they are shipped to stores. This perked us right up for the next 20 miles. This section was now rolling green hills of pasture with sparse trees and bushes and a few black cows grazing here and there, all with a backdrop of some taller peaks. It was quite empty, no towns or gas stations or houses at all, and was quite hot and dry. Then you need to hop onto 101 for a bit and out of nowhere it goes through a mini canyon with sheer  rock walls for a couple miles, then all of a sudden pops you back out on the coast. And its a totally different coast, we were now in southern California. Big flat beaches and palm trees and warm breezes. What a difference to not have the winds be cold and dense with fog.
+
+# The Southern California vibes
 
 We camped at Refugio state Beach, which is lovely. The h/b site here has the best view in the house, right on the sandy beach with views of the islands.
 
