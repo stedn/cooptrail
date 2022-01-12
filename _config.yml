@@ -13,6 +13,7 @@ zip_code:
 country:
 phone:
 discord: https://discord.gg/6VbCwAcHwg
+hylo: https://www.hylo.com/groups/coop-trail
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
