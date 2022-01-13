@@ -259,10 +259,123 @@
         <div id="blurbholder">
             <p>This Co-op Hub is only a suggested one, and hasn’t been fully set up yet.  If you’re interested in helping set it up or learning more, connect with us on <a href="https://discord.gg/6VbCwAcHwg">Discord</a> or <a href="https://www.hylo.com/groups/coop-trail">Hylo group</a>.</p>
 
+            <button onclick="window.open('https://discord.gg/6VbCwAcHwg', '_blank');" style="width:auto;">Group Forum</button>
+            <button onclick="document.getElementById('modform1').style.display='block'" style="width:auto;">Add Route</button>
+            <button onclick="document.getElementById('modform2').style.display='block'" style="width:auto;">Add Organization</button>
 
-            <p><strong>Group Forum:</strong> <a href="https://discord.gg/6VbCwAcHwg">https://discord.gg/6VbCwAcHwg</a></p>
-            <p><strong>Add Route:</strong> <a href="https://discord.gg/6VbCwAcHwg">https://discord.gg/6VbCwAcHwg</a></p>
-            <p><strong>Add Organization:</strong> <a href="https://discord.gg/6VbCwAcHwg">https://discord.gg/6VbCwAcHwg</a></p>
+            
+<style>
+.background-modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+    padding-top: 60px;
+}
+
+.modal-content {
+    background-color: #242943;
+    margin: 5% auto 15% auto;
+    padding: 5%;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 800px;
+    text-align: left;
+}
+</style>
+
+<script>
+
+    window.onclick = function(event) {
+        if (event.target == document.getElementById('modform1')) {
+            document.getElementById('modform1').style.display = "none";
+        }
+        if (event.target == document.getElementById('modform2')) {
+            document.getElementById('modform2').style.display = "none";
+        }
+    }
+
+</script>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display: none;" onload="if(submitted)  {document.getElementById('modform1').style.display='none'; document.getElementById('modform2').style.display='none'; }"></iframe>
+<div id="modform1" class="background-modal">
+    <form class="modal-content animate" id="myForm" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfuJ1gBPFLVZY7adLLOR1DD666zk-YDkhA8uE7mYpAfiR5Zbg/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
+    <h4>Submit New Route</h4>
+    <input type="hidden" name="entry.1895833975" value="route">
+    <div class="field half first">
+        <label for="name">Route Title</label>
+        <input type="text" name="entry.174382857" id="name" />
+    </div>
+    <div class="field half">
+        <label for="description">Brief Description</label>
+        <input type="text" name="entry.1007010679" id="description" />
+    </div>
+    <div class="field half first">
+        <label for="image">Image</label>
+        <input type="text" name="entry.1677550586" id="image" />
+    </div>
+    <div class="field half">
+        <label for="url">Link to Directions</label>
+        <input type="text" name="entry.1047341135" id="url" />
+    </div>
+    <div class="field">
+        <label for="message">Travel Log</label>
+        <textarea name="entry.1944189447" id="message" rows="6"></textarea>
+    </div>
+    <input type="hidden" name="entry.841547321" value="">
+    <input type="hidden" name="entry.972036061" value="">
+    <input type="hidden" name="entry.1117173858" value="Central and Southern California">
+    <ul class="actions">
+        <li><input type="submit" value="Submit" class="special" onclick=''/></li>
+        <li><input type="reset" value="Close" onclick="document.getElementById('modform1').style.display='none'"/></li>
+    </ul>
+</form>
+</div>
+
+<div id="modform2" class="background-modal">
+    <form class="modal-content animate" id="myForm" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfuJ1gBPFLVZY7adLLOR1DD666zk-YDkhA8uE7mYpAfiR5Zbg/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
+    <h4>Submit New Organization</h4>
+    <input type="hidden" name="entry.1895833975" value="org">
+    <div class="field half first">
+        <label for="name">Name</label>
+        <input type="text" name="entry.174382857" id="name" />
+    </div>
+    <div class="field half">
+        <label for="description">Address/GPS</label>
+        <input type="text" name="entry.1007010679" id="description" />
+    </div>
+    <div class="field half first">
+        <label for="image">Image URL</label>
+        <input type="text" name="entry.1677550586" id="image" />
+    </div>
+    <div class="field half">
+        <label for="url">Website</label>
+        <input type="text" name="entry.1047341135" id="url" />
+    </div>
+    <div class="field">
+        <label for="message">Description of Organization</label>
+        <textarea name="entry.1944189447" id="message" rows="3"></textarea>
+    </div>
+
+    <input type="hidden" name="entry.841547321" value="">
+    <input type="hidden" name="entry.972036061" value="">
+    <input type="hidden" name="entry.1117173858" value="Central and Southern California">
+    <ul class="actions">
+        <li><input type="submit" value="Submit" class="special" onclick=''/></li>
+        <li><input type="reset" value="Close" onclick="document.getElementById('modform2').style.display='none'"/></li>
+    </ul>
+</form>
+</div>
+
+
+
+
+
 
         </div>
     </div>
