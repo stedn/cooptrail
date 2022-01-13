@@ -19,5 +19,4 @@ Tucson sits in the heart of the Sonoran Desert, a desert that's almost as lush, 
 - <a href="https://volunteer.aztrail.org/need/">Maintain trails with the Arizona Trail Association</a>
 
 
-
 This hub is still a work in progress. Check back soon for more updates.

@@ -16,7 +16,6 @@ The western Washington area is one of the first explored and all-time favorite r
 ### Ways to give back
 
 - Trail maintenance: <a href="https://www.wta.org/get-involved/events">Washington Trails Association</a>
--
 
 
 This Co-op Hub is only a suggested one, and hasn't been fully set up yet.  If you're interested in helping set it up or learning more, connect with us on <a href="https://discord.gg/6VbCwAcHwg">Discord</a> or <a href="https://www.hylo.com/groups/coop-trail">Hylo group</a>.

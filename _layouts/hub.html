@@ -39,10 +39,11 @@
 
         <div id="blurbholder">
             {{ content }}
+            <button onclick="window.open('{{ page.group_forum }}', '_blank');" style="width:auto;">Group Forum</button>
+            <button onclick="document.getElementById('modform1').style.display='block'" style="width:auto;">Add Route</button>
+            <button onclick="document.getElementById('modform2').style.display='block'" style="width:auto;">Add Organization</button>
 
-            <p><strong>Group Forum:</strong> <a href="{{ page.group_forum }}">{{ page.group_forum }}</a></p>
-            <p><strong>Add Route:</strong> <a href="{{ page.group_forum }}">{{ page.group_forum }}</a></p>
-            <p><strong>Add Organization:</strong> <a href="{{ page.group_forum }}">{{ page.group_forum }}</a></p>
+            {% include forms.html %}
 
         </div>
     </div>
