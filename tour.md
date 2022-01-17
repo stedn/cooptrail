@@ -3,9 +3,9 @@ layout: page
 title: Launching the Trail Cooperative
 description: Follow along as we tour the US building a regenerative travel network
 nav-menu: true
-show_tile: false
+show_tile: true
 hide_image: true
-image: assets/images/topmapnew.png
+image: assets/images/fun_us_small.jpg
 ---
 
 <style>

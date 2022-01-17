@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Routes
-description: to help you on your journey to a regenerative world
+title: Journey Hubs
+description: Connect with a local community for bike-to-hike, bikepacking, and backpacking adventures.  We also have resources for ways to get involved with outdoor volunteering in your community.
 nav-menu: true
 show_tile: true
 hide_image: true
-image: assets/images/topmapnew.png
+image: assets/images/hubmap_cool.png
 ---
 
 {% assign mytiles = site.html_pages | where_exp: "item", "item.layout == 'hub'" %}

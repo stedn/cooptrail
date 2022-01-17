@@ -1,0 +1,27 @@
+{% if 'posts' == site.tiles-source %}
+    {% assign tiles = site.posts %}
+{% elsif 'pages' == site.tiles-source %}
+    {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
+{% endif %}
+
+<section id="three" class="spotlights">
+
+        {% for tile in tiles %}
+        <section>
+            <a href="{{ tile.url  | relative_url }}" class="image" style="max-height:300px;overflow:hidden;">
+                <img src="{{ tile.image | relative_url }}" alt="{{ tile.title }}" />
+            </a>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3><a href="{{ tile.url  | relative_url }}">{{ tile.title }}</a></h3>
+                    </header>
+                    <p>{{ tile.description }}</p>
+                    <ul class="actions">
+                        <li><a href="{{ tile.url  | relative_url }}" class="button">Learn more</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        {% endfor %}
+    </section>
