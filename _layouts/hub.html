@@ -121,7 +121,8 @@ fetch("{{ page.spreadsheet_url }}")
             if (data[route].image) {
                 to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
             }
-            to_add = to_add + `<button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Travel Log</button>`
+            to_add = to_add + `<button onclick="window.open('${data[route].directions}', '_blank');" style="width:auto;">View Route</button>
+            <button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Travel Log</button>`
             document.getElementById('blurbholder').innerHTML = to_add;
 
             document.getElementById('log_field').value = route

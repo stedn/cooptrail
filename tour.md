@@ -1,5 +1,6 @@
 ---
 layout: page
+short_title: Inaugural Tour
 title: Launching the Trail Cooperative
 description: Follow along as we tour the US building a regenerative travel network
 nav-menu: true

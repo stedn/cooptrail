@@ -5,7 +5,7 @@ description: 'Learn more about our attempts to make vanlife sustainable'
 image: assets/images/banner.jpg
 hide_image: true
 show_tile: false
-nav-menu: true
+nav-menu: false
 ---
 
 Traveling and seeing beautiful places is an important and amazingly rewarding part of life, but to fully enjoy the beauty of the world, we need to start treating the places we see with respect.  Regenerative travel is about moving past "consuming" the places you visit to providing a positive impact that integrates with the land and the people you see.

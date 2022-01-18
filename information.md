@@ -2,7 +2,7 @@
 layout: post
 title: Information
 description: 'Working documents and information about becoming a member'
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

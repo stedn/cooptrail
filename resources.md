@@ -1,5 +1,6 @@
 ---
 layout: post
+short_title: Resources
 title: 'Regenerative Travel Resources'
 description: "If you're looking to plan a regenerative travel tour, we've compiled useful resources to find the things you need.  Maps for bike co-ops, reused gear stores, food co-ops, and hiker/biker camps."
 image: assets/images/bike-coop-map.png

@@ -1,5 +1,6 @@
 ---
 layout: post
+short_title: Mission
 title: "The Trail Cooperative's Mission"
 description: "travel, don't pollute, do good"
 image: assets/images/work.gif
