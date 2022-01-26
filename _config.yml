@@ -20,13 +20,13 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-facebook_url: https://www.facebook.com/CoopTrail
-instagram_url: https://www.instagram.com/cooptrail/
-linkedin_url:
+facebook_url: https://www.facebook.com/TrailCoop
+instagram_url: https://www.instagram.com/trailcoop/
+linkedin_url: https://www.linkedin.com/company/trailcoop
 slack_url:
 twitter_url: https://twitter.com/TrailCoop
 youtube_url: https://www.youtube.com/channel/UCjcZqjYIyFCo9SC0YaBy6Mg
-tiktok_url: https://www.tiktok.com/@trailcooperative
+tiktok_url: https://www.tiktok.com/@trailcoop
 
 # build settings
 markdown: kramdown
