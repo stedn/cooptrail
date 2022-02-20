@@ -10,6 +10,7 @@ map: western-oregon_684830
 image: assets/images/pacific_northwest/south_oregon_coast.jpg
 ---
 
+This hub runs along the western Oregon coast and includes a few routes based in Portland and Eugene.  Will add more soon.
 
 ### Ways to give back
 
