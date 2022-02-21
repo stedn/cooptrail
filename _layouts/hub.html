@@ -85,7 +85,7 @@ fetch("{{ page.spreadsheet_url }}")
             data[meta_result.table.rows[i].c[0].v] = to_push
           }else{
             to_push = {};
-            route_title = meta_result.table.rows[i].c[5].v
+            route_title = meta_result.table.rows[i].c[7].v
             for (var j = 1; j < 5; j += 1){
                 if (meta_result.table.rows[i].c[j] != null){
                     to_push[keys[j]]=meta_result.table.rows[i].c[j].v
@@ -146,7 +146,7 @@ fetch("{{ page.spreadsheet_url }}")
                                     </header>
                                     <p>${tmp_data[i].description}</p>
                                     <ul class="actions">
-                                        <li><a href="${tmp_data[i].directions}" class="button">Learn more</a></li>
+                                        <li><a href="${tmp_data[i].directions}" class="button">View Details</a></li>
                                     </ul>
                                 </div>
                             </div>`
