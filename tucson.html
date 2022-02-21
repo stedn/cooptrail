@@ -409,7 +409,7 @@
             <div>
                 <h1 id="title" style="display:flex;">Tucson</h1>
                 <div>
-                <strong id="description" style="display:flex;justify-content: flex-end;">Sonoran Desert</strong>
+                <strong id="descript" style="display:flex;justify-content: flex-end;">Sonoran Desert</strong>
                 </div>
 
             </div>
@@ -638,7 +638,7 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                 document.getElementById('directions').setAttribute('href', data[route].directions);
                 document.getElementById('directions').style.display = 'inline';
             }
-            document.getElementById('description').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to Tucson hub map</a>`;
+            document.getElementById('descript').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to Tucson hub map</a>`;
             to_add = `<p>${data[route].html}</p>`
             if (data[route].image) {
                 to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
