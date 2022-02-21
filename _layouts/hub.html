@@ -23,7 +23,7 @@
             <div>
                 <h1 id="title" style="display:flex;">{{ page.title }}</h1>
                 <div>
-                <strong id="description" style="display:flex;justify-content: flex-end;">{{ page.description }}</strong>
+                <strong id="descript" style="display:flex;justify-content: flex-end;">{{ page.description }}</strong>
                 </div>
 
             </div>
@@ -116,7 +116,7 @@ fetch("{{ page.spreadsheet_url }}")
                 document.getElementById('directions').setAttribute('href', data[route].directions);
                 document.getElementById('directions').style.display = 'inline';
             }
-            document.getElementById('description').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to {{ page.title }} hub map</a>`;
+            document.getElementById('descript').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to {{ page.title }} hub map</a>`;
             to_add = `<p>${data[route].html}</p>`
             if (data[route].image) {
                 to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
