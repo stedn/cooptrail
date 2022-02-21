@@ -664,22 +664,26 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                 tmp_data = log_data[route]
                 for (var i  = 0; i < tmp_data.length; i += 1){
                     var newElement = document.createElement("section");
+                    tmp_directions = data[route].directions
+                    if (tmp_data[i].directions != null){
+                        tmp_directions = tmp_data[i].directions
+                    }
                     to_add = `
                             <div class="content">
                                 <div class="inner">
                                     <header class="major">
                                         <h3>
-                                            <a href="${tmp_data[i].directions}">${tmp_data[i].name}</a>
+                                            <a href="${tmp_directions}">${tmp_data[i].name}</a>
                                         </h3>
                                     </header>
                                     <p>${tmp_data[i].description}</p>
                                     <ul class="actions">
-                                        <li><a href="${tmp_data[i].directions}" class="button">View Details</a></li>
+                                        <li><a href="${tmp_directions}" class="button">View Details</a></li>
                                     </ul>
                                 </div>
                             </div>`
                     if (tmp_data[i].image) {
-                            to_add = `<a href="${tmp_data[i].directions}" class="image">
+                            to_add = `<a href="${tmp_directions}" class="image">
                                 <img src="${tmp_data[i].image}" alt="${tmp_data[i].image_desc}" data-position="center center" />
                             </a>` + to_add
                     }
