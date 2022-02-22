@@ -639,10 +639,11 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
             }
             document.getElementById('descript').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to Western Washington hub map</a>`;
             to_add = `<p>${data[route].html}</p>`
-            if (data[route].image) {
-                to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
-            }
+            // if (data[route].image) {
+                // to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
+            // }
             to_add = to_add + `<button onclick="window.open('${data[route].directions}', '_blank');" style="width:auto;">View Route</button>
+                <button onclick="document.querySelector('#two').scrollIntoView()" style="width:auto;">View Travel Logs</button>
             <button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Travel Log</button>`
             document.getElementById('blurbholder').innerHTML = to_add;
 
