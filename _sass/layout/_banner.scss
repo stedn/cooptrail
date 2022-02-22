@@ -12,6 +12,20 @@
     color:black;
   }
 
+  #landing_buttons_wide{
+  	@include breakpoint(xsmall) {
+  		display:none;
+  	}
+  	display:block;
+  }
+
+  #landing_buttons_narrow{
+  	@include breakpoint(xsmall) {
+  		display:inline;
+  	}
+  	display:none;
+  }
+
 /* Banner */
 	.mapback {
 		@include vendor('background-image', 'url("../images/bg_map.png")');
