@@ -7,9 +7,9 @@ image: assets/images/work.gif
 hide_image: true
 nav-menu: true
 ---
-
 <img class="image left" src="assets/images/pacific_northwest/wildcat.jpg">
-<p>The Trail Cooperative aims to jumpstart a movement for <a href="regenerative-travel.html">regenerative travel</a>, which entails both an eco-friendly mode of transport as well as being more than consumers in the places we visit. Our vision is to create a nationwide movement of local bicycle- and train-based outdoor adventures that connect as many people as possible to the wilderness without exploiting people or the planet. Our goal is to demonstrate that adapting our lives to be more sustainable isn't about giving things up, it's about gaining a sense of adventure!</p>
+<p>The Trail Cooperative aims to jumpstart a movement for <a href="regenerative-travel.html">regenerative travel</a>, which entails both an eco-friendly mode of transport as well as being more than consumers in the places we visit. Our vision is to create a nationwide movement of local bicycle- and train-based outdoor adventures that connect as many people as possible to the wilderness without exploiting people or the planet. Our goal is to demonstrate that adapting our lives to be more sustainable isn't about giving things up, it's about gaining a sense of adventure! Interested in this mission?</p>
+<p style="text-align:center"> <a href="join.html" style="text-align:center;text-transform: uppercase;text-decoration: underline; font-size: 20px;padding: 4px ;letter-spacing: 2px;color: #14171c;background: #e0f3db;font-weight:700;">Join Us</a></p>
 
 <div style="padding:20px;clear:both;text-align:left;max-width:800px;margin:auto;color: #14171c;background:#43a2ca"><h3 style="text-align:center;">Three pillars guide our work.</h3>
 <ol>
