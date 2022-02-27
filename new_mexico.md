@@ -10,19 +10,22 @@ map: new-mexico_720462
 image: assets/images/nm.jpg
 ---
 
-New Mexico. A desert.
+<p>New Mexico. A desert. (This hub is a stub, more to come.)</p>
 
 
-### Route resources
+<h3>Route resources</h3>
 
-- <a href="https://www.nmts.org/news.php">New Mexico Touring Society</a>
-
-
-### Ways to give back
-
-- <a href="https://nmvfo.org/projects-and-events-calendar/">Trail Maintenance with NM Volunteers for the Outdoors</a>
-- <a href="https://www.oneabqvolunteers.com/need/">One ABQ Volunteers</a>
+<ul>
+    <li><a href="https://www.nmts.org/news.php">New Mexico Touring Society</a></li>
+</ul>
 
 
+<h3>Ways to give back</h3>
 
-This hub is still a work in progress. Check back soon for more updates.
+<ul>
+    <li><a href="https://nmvfo.org/projects-and-events-calendar/">Trail Maintenance with NM Volunteers for the Outdoors</a></li>
+    <li><a href="https://www.oneabqvolunteers.com/need/">One ABQ Volunteers</a></li>
+</ul>
+
+
+<p>This hub is still a work in progress. Check back soon for more updates.</p>
