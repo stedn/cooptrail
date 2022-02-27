@@ -15,21 +15,21 @@
 	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
     <meta itemprop="name" content="">
-    <meta itemprop="description" content="BikeToHike Central">
+    <meta itemprop="description" content="Mountains, Rivers, Islands">
     <meta itemprop="image" content="/assets/images/pacific_northwest/seattle.jpg">
 
     <meta property="og:url" content="/western_washington.html">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Western Washington | TRAIL COOPERATIVE">
     <meta property="og:site_name" content="TRAIL COOPERATIVE">
-    <meta property="og:description" content="BikeToHike Central">
+    <meta property="og:description" content="Mountains, Rivers, Islands">
     <meta property="og:image" content="/assets/images/pacific_northwest/seattle.jpg">
 
     <meta property="twitter:url" content="/western_washington.html">
     <meta property="twitter:card" content="summary_large_image"/>
     <meta property="twitter:title" content="Western Washington | TRAIL COOPERATIVE">
     <meta property="twitter:site" content="TRAIL COOPERATIVE">
-    <meta property="twitter:description" content="BikeToHike Central">
+    <meta property="twitter:description" content="Mountains, Rivers, Islands">
     <meta property="twitter:creator" content="@TrailCoop">
     <meta property="twitter:image" content="/assets/images/pacific_northwest/seattle.jpg">
     <style>
@@ -409,7 +409,7 @@
             <div>
                 <h1 id="title" style="display:flex;">Western Washington</h1>
                 <div>
-                <strong id="descript" style="display:flex;justify-content: flex-end;">BikeToHike Central</strong>
+                <strong id="descript" style="display:flex;justify-content: flex-end;">Mountains, Rivers, Islands</strong>
                 </div>
 
             </div>
@@ -595,7 +595,9 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
         }
         var data = {};
         var log_data ={};
-        for (var i = 0; i < meta_result.table.rows.length; i += 1) {
+        main_description = meta_result.table.rows[0].c[2].v;
+        main_content = meta_result.table.rows[0].c[5].v;
+        for (var i = 1; i < meta_result.table.rows.length; i += 1) {
           if (meta_result.table.rows[i].c[0] != null){
             to_push = {};
             for (var j = 1; j < 7; j += 1){
@@ -689,6 +691,8 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                 document.getElementById('two').style.display = 'none';
             }
         } else{
+            document.getElementById('blurbholder').innerHTML = main_content;
+            document.getElementById('descript').innerHTML = main_description;
             for (var i in data){
                 var newElement = document.createElement("section");
                 to_add = `

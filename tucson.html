@@ -424,13 +424,13 @@
 
 
         <div id="blurbholder">
-            <p>Tucson sits in the heart of the Sonoran Desert, a desert that’s almost as lush, green, and full of life as any other habitat.  Touring this area provides wide open spaces, towering peaks, and verdant washes to explore.  In all the places we’ve been there really isn’t any other place that feels quite like Tucson.</p>
+            <p>Tucson sits in the heart of the Sonoran Desert, a desert that's almost as lush, green, and full of life as any other habitat.  Touring this area provides wide open spaces, towering peaks, and verdant washes to explore.  In all the places we've been there really isn't any other place that feels quite like Tucson.</p>
 
-<h3 id="ways-to-give-back">Ways to give back</h3>
+<h3>Ways to give back</h3>
 
 <ul>
-  <li><a href="https://watershedmg.org/event">Help the Water Management Group conserve water</a></li>
-  <li><a href="https://volunteer.aztrail.org/need/">Maintain trails with the Arizona Trail Association</a></li>
+    <li><a href="https://watershedmg.org/event">Help the Water Management Group conserve water</a></li>
+    <li><a href="https://volunteer.aztrail.org/need/">Maintain trails with the Arizona Trail Association</a></li>
 </ul>
 
 <p>This hub is still a work in progress. Check back soon for more updates.</p>
@@ -596,7 +596,9 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
         }
         var data = {};
         var log_data ={};
-        for (var i = 0; i < meta_result.table.rows.length; i += 1) {
+        main_description = meta_result.table.rows[0].c[2].v;
+        main_content = meta_result.table.rows[0].c[5].v;
+        for (var i = 1; i < meta_result.table.rows.length; i += 1) {
           if (meta_result.table.rows[i].c[0] != null){
             to_push = {};
             for (var j = 1; j < 7; j += 1){
@@ -690,6 +692,8 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                 document.getElementById('two').style.display = 'none';
             }
         } else{
+            document.getElementById('blurbholder').innerHTML = main_content;
+            document.getElementById('descript').innerHTML = main_description;
             for (var i in data){
                 var newElement = document.createElement("section");
                 to_add = `
