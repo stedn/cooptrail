@@ -123,8 +123,7 @@ fetch("{{ page.spreadsheet_url }}")
             // if (data[journey].image) {
                 // to_add = `<div class="image right"><img src="${data[journey].image}" /></div>` + to_add
             // }
-            to_add = to_add + `<button onclick="window.open('${data[journey].directions}', '_blank');" style="width:auto;">View journey</button>
-                <button onclick="document.querySelector('#two').scrollIntoView()" style="width:auto;">View Route Logs</button>
+            to_add = to_add + `<button onclick="document.querySelector('#two').scrollIntoView()" style="width:auto;">View Route Logs</button>
             <button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Route Log</button>`
             document.getElementById('blurbholder').innerHTML = to_add;
 
