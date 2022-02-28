@@ -294,11 +294,11 @@
 <iframe name="hidden_iframe" id="hidden_iframe" style="display: none;" onload="if(submitted)  {document.getElementById('modform1').style.display='none'; document.getElementById('modform2').style.display='none'; document.getElementById('modform3').style.display='none'; }"></iframe>
 <div id="modform1" class="background-modal">
     <form class="modal-content animate" id="myForm" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfuJ1gBPFLVZY7adLLOR1DD666zk-YDkhA8uE7mYpAfiR5Zbg/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
-    <h4>Submit New Route</h4>
-    <p>Note that submitted routes may take a few days to be checked before showing up on the site.</p>
+    <h4>Submit New Journey</h4>
+    <p>Note that submitted journeys may take a few days to be checked before showing up on the site.</p>
     <input type="hidden" name="entry.1895833975" value="route">
     <div class="field half first">
-        <label for="name">Route Title</label>
+        <label for="name">Journey Name</label>
         <input type="text" name="entry.174382857" id="name" />
     </div>
     <div class="field half">
@@ -314,7 +314,7 @@
         <input type="text" name="entry.1047341135" id="url" />
     </div>
     <div class="field">
-        <label for="message">Travel Log</label>
+        <label for="message">Travel Information</label>
         <textarea name="entry.1944189447" id="message" rows="6"></textarea>
     </div>
     <input type="hidden" name="entry.841547321" value="">
@@ -365,7 +365,7 @@
 
 <div id="modform3" class="background-modal">
     <form class="modal-content animate" id="myForm" action="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfuJ1gBPFLVZY7adLLOR1DD666zk-YDkhA8uE7mYpAfiR5Zbg/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
-    <h4>Submit Travel Log</h4>
+    <h4>Submit Route Log</h4>
     <p>Note that submitted logs may take a few days to be checked before showing up on the site.</p>
 
     <input type="hidden" name="entry.1895833975" value="log">
@@ -442,7 +442,7 @@
 <p>This hub is still a work in progress. Check back soon for more updates.</p>
 
             <button onclick="window.open('https://discord.gg/6VbCwAcHwg', '_blank');" style="width:auto;">Group Forum</button>
-            <button onclick="document.getElementById('modform1').style.display='block'" style="width:auto;">Add Route</button>
+            <button onclick="document.getElementById('modform1').style.display='block'" style="width:auto;">Add Journey</button>
             <button onclick="document.getElementById('modform2').style.display='block'" style="width:auto;">Add Organization</button>
 
 
@@ -451,7 +451,7 @@
 </section>
 <div class="inner" style="clear:both;">
     <section id="two" class="spotlights">
-        <h2 id="two_label" style="margin-top:5%;text-align:center;">Routes</h2>
+        <h2 id="two_label" style="margin-top:5%;text-align:center;">Journeys</h2>
     </section>
 
 
@@ -615,59 +615,59 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
             data[meta_result.table.rows[i].c[0].v] = to_push
           }else{
             to_push = {};
-            route_title = meta_result.table.rows[i].c[7].v
+            journey_title = meta_result.table.rows[i].c[7].v
             for (var j = 1; j < 5; j += 1){
                 if (meta_result.table.rows[i].c[j] != null){
                     to_push[keys[j]]=meta_result.table.rows[i].c[j].v
                 }
             }
-            if (!(route_title in log_data)){
-                log_data[route_title] = []
+            if (!(journey_title in log_data)){
+                log_data[journey_title] = []
             }
-            log_data[route_title].push(to_push)
+            log_data[journey_title].push(to_push)
           }
         }
         console.log(data)
         console.log(log_data)
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
-        if (urlParams.has('route')){
-            route = urlParams.get('route');
-            if (data[route].zoom){
+        if (urlParams.has('journey')){
+            journey = urlParams.get('journey');
+            if (data[journey].zoom){
                 document.getElementById('mainmap').innerHTML=`
-                    <iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/new-mexico_720462${data[route].zoom}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+                    <iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/new-mexico_720462${data[journey].zoom}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
                     <p><a href="//umap.openstreetmap.fr/en/map/new-mexico_720462">Full Screen</a>
                     <a id="directions" href="">Directions</a>
                 </p>`
             }
 
-            document.getElementById('title').textContent = data[route].name;
-            if (data[route].directions){
-                document.getElementById('directions').setAttribute('href', data[route].directions);
+            document.getElementById('title').textContent = data[journey].name;
+            if (data[journey].directions){
+                document.getElementById('directions').setAttribute('href', data[journey].directions);
                 document.getElementById('directions').style.display = 'inline';
             }
             document.getElementById('descript').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to New Mexico hub map</a>`;
-            to_add = `<p>${data[route].html}</p>`
-            // if (data[route].image) {
-                // to_add = `<div class="image right"><img src="${data[route].image}" /></div>` + to_add
+            to_add = `<p>${data[journey].html}</p>`
+            // if (data[journey].image) {
+                // to_add = `<div class="image right"><img src="${data[journey].image}" /></div>` + to_add
             // }
-            to_add = to_add + `<button onclick="window.open('${data[route].directions}', '_blank');" style="width:auto;">View Route</button>
-                <button onclick="document.querySelector('#two').scrollIntoView()" style="width:auto;">View Travel Logs</button>
-            <button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Travel Log</button>`
+            to_add = to_add + `<button onclick="window.open('${data[journey].directions}', '_blank');" style="width:auto;">View journey</button>
+                <button onclick="document.querySelector('#two').scrollIntoView()" style="width:auto;">View Route Logs</button>
+            <button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Route Log</button>`
             document.getElementById('blurbholder').innerHTML = to_add;
 
-            document.getElementById('log_field').value = route
+            document.getElementById('log_field').value = journey
             const script = document.createElement('script')
             script.src = 'assets/js/pa.js'
             document.head.append(script)
             const script2 = document.createElement('script')
             script2.src = '//www.instagram.com/embed.js'
             document.head.append(script2)
-            if (route in log_data){
-                tmp_data = log_data[route]
+            if (journey in log_data){
+                tmp_data = log_data[journey]
                 for (var i  = 0; i < tmp_data.length; i += 1){
                     var newElement = document.createElement("section");
-                    tmp_directions = data[route].directions
+                    tmp_directions = data[journey].directions
                     if (tmp_data[i].directions != null){
                         tmp_directions = tmp_data[i].directions
                     }
@@ -693,7 +693,7 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                     newElement.innerHTML = to_add
                     document.getElementById("two").appendChild(newElement);
                 }
-                document.getElementById('two_label').textContent = "Travel Logs"
+                document.getElementById('two_label').textContent = "Route Logs"
             } else {
                 document.getElementById('two').style.display = 'none';
             }
@@ -707,17 +707,17 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                             <div class="inner">
                                 <header class="major">
                                     <h3>
-                                        <a href="?route=${i}">${data[i].name}</a>
+                                        <a href="?journey=${i}">${data[i].name}</a>
                                     </h3>
                                 </header>
                                 <p>${data[i].description}</p>
                                 <ul class="actions">
-                                    <li><a href="?route=${i}" class="button">Learn more</a></li>
+                                    <li><a href="?journey=${i}" class="button">Learn more</a></li>
                                 </ul>
                             </div>
                         </div>`
                 if (data[i].image) {
-                        to_add = `<a href="?route=${i}" class="image">
+                        to_add = `<a href="?journey=${i}" class="image">
                             <img src="${data[i].image}" alt="${data[i].image_desc}" data-position="center center" />
                         </a>` + to_add
                 }
