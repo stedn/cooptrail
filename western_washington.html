@@ -418,12 +418,13 @@
 
             <div id="mainmap" class="iframeholder image left"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/western-washington_684826?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
                 <p><a href="//umap.openstreetmap.fr/en/map/western-washington_684826">Full Screen</a>
-                <a id="directions" style="display:none;" href="#">Directions</a>
+
             </p>
             </div>
 
 
         <div id="blurbholder">
+            <a id="directions" style="display:none;" href="">Directions</a>
             <p>The western Washington area is one of the first explored and all-time favorite regions we’ve seen. It is the perfect place for fantastic #HikeToBike trips into the national parks at Mt. Rainier and Olympic Peninsula.  It has the amazing Olympic Discovery Trail with over 100 miles of off-highway riding.  The cities of Bellingham and Port Townsend were terrific smaller towns with excellent cycling infrastructure and ethical cooperatives for cycling and food. The San Juan islands offer an amazing journey by ferry for free amongst these quaint island vibes.  And at the center, the city of Seattle offers excellent infrastructure, an interesting mix of working and modern tech culture, and a storied history of supporting cooperatives.</p>
 
 <h3 id="ways-to-give-back">Ways to give back</h3>
@@ -630,20 +631,19 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                 document.getElementById('mainmap').innerHTML=`
                     <iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/western-washington_684826${data[journey].zoom}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
                     <p><a href="//umap.openstreetmap.fr/en/map/western-washington_684826">Full Screen</a>
-                    <a id="directions" href="">Directions</a>
                 </p>`
             }
 
             document.getElementById('title').textContent = data[journey].name;
-            if (data[journey].directions){
-                document.getElementById('directions').setAttribute('href', data[journey].directions);
-                document.getElementById('directions').style.display = 'inline';
-            }
             document.getElementById('descript').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to Western Washington hub map</a>`;
-            to_add = `<p>${data[journey].html}</p>`
+            to_add = `<p>${data[journey].description}</p>`
             // if (data[journey].image) {
                 // to_add = `<div class="image right"><img src="${data[journey].image}" /></div>` + to_add
             // }
+            // if (data[journey].directions){
+            //     to_add = to_add+` <p>(<a id="directions" href="${data[journey].directions}">Directions</a>)</p>`
+            // }
+            to_add = to_add + `${data[journey].html}`
             to_add = to_add + `<button onclick="document.querySelector('#two').scrollIntoView()" style="width:auto;">View Route Logs</button>
             <button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Route Log</button>`
             document.getElementById('blurbholder').innerHTML = to_add;
@@ -671,10 +671,9 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                                             <a href="${tmp_directions}">${tmp_data[i].name}</a>
                                         </h3>
                                     </header>
+                                        <a href="${tmp_directions}" class="button">Directions</a>
                                     <p>${tmp_data[i].description}</p>
-                                    <ul class="actions">
-                                        <li><a href="${tmp_directions}" class="button">View Details</a></li>
-                                    </ul>
+
                                 </div>
                             </div>`
                     if (tmp_data[i].image) {

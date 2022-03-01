@@ -418,12 +418,13 @@
 
             <div id="mainmap" class="iframeholder image left"><iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/tucson_701586?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
                 <p><a href="//umap.openstreetmap.fr/en/map/tucson_701586">Full Screen</a>
-                <a id="directions" style="display:none;" href="#">Directions</a>
+
             </p>
             </div>
 
 
         <div id="blurbholder">
+            <a id="directions" style="display:none;" href="">Directions</a>
             <p>Tucson sits in the heart of the Sonoran Desert, a desert that's almost as lush, green, and full of life as any other habitat.  Touring this area provides wide open spaces, towering peaks, and verdant washes to explore.  In all the places we've been there really isn't any other place that feels quite like Tucson.</p>
 
 <h3>Ways to give back</h3>
@@ -631,20 +632,19 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                 document.getElementById('mainmap').innerHTML=`
                     <iframe width="100%" id="map" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/tucson_701586${data[journey].zoom}?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
                     <p><a href="//umap.openstreetmap.fr/en/map/tucson_701586">Full Screen</a>
-                    <a id="directions" href="">Directions</a>
                 </p>`
             }
 
             document.getElementById('title').textContent = data[journey].name;
-            if (data[journey].directions){
-                document.getElementById('directions').setAttribute('href', data[journey].directions);
-                document.getElementById('directions').style.display = 'inline';
-            }
             document.getElementById('descript').innerHTML = `<a href="${window.location.href.split('?')[0]}">Back to Tucson hub map</a>`;
-            to_add = `<p>${data[journey].html}</p>`
+            to_add = `<p>${data[journey].description}</p>`
             // if (data[journey].image) {
                 // to_add = `<div class="image right"><img src="${data[journey].image}" /></div>` + to_add
             // }
+            // if (data[journey].directions){
+            //     to_add = to_add+` <p>(<a id="directions" href="${data[journey].directions}">Directions</a>)</p>`
+            // }
+            to_add = to_add + `${data[journey].html}`
             to_add = to_add + `<button onclick="document.querySelector('#two').scrollIntoView()" style="width:auto;">View Route Logs</button>
             <button onclick="document.getElementById('modform3').style.display='block'" style="width:auto;">Add Route Log</button>`
             document.getElementById('blurbholder').innerHTML = to_add;
@@ -672,10 +672,9 @@ fetch("https://docs.google.com/spreadsheets/d/1PPCRva3qH_biUGHA_R2Lb4qJmxaNSvml1
                                             <a href="${tmp_directions}">${tmp_data[i].name}</a>
                                         </h3>
                                     </header>
+                                        <a href="${tmp_directions}" class="button">Directions</a>
                                     <p>${tmp_data[i].description}</p>
-                                    <ul class="actions">
-                                        <li><a href="${tmp_directions}" class="button">View Details</a></li>
-                                    </ul>
+
                                 </div>
                             </div>`
                     if (tmp_data[i].image) {
