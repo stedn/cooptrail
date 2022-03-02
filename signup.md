@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Join the community mailing list
+title: Sign up for our launch meeting and updates
 description:
 nav-menu: false
 show_tile: false
 ---
 
 <div style="max-width:800px;margin:auto;text-align:center;">
-Add your email to join the Trail Cooperative community.  We will send updates quarterly on the progress of the project and recent highlights.  By joining our email list you also have the option to be a <a href="https://docs.google.com/document/d/1_CVkHxXW4NXf43kqpFtWBO2jwO6y82_tUvGkTU4SqGo/edit?usp=sharing">community member stakeholder</a>, and are eligible to vote to help the Trail Cooperative make major decisions.
+<h5>Use this form to get updates on the co-op trail launch.</h5>
 </div>
 <!-- Begin Mailchimp Signup Form -->
 
